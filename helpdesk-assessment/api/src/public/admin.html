@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Agent Portal — Assistant Adam</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="/admin.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo">AA</div>
+        <div>
+          <div class="title">Assistant Adam</div>
+          <div class="subtitle">Agent Portal</div>
+        </div>
+      </div>
+
+      <nav class="tabs">
+        <button class="tab active" data-filter="pending">Pending</button>
+        <button class="tab" data-filter="unresolved">Unresolved</button>
+        <button class="tab" data-filter="resolved">Resolved</button>
+        <button class="tab" data-filter="all">All</button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <button id="refresh" class="btn ghost">↻ Refresh</button>
+        <a class="btn link" href="http://localhost:3000/agent.html">← Back to Client</a>
+      </div>
+    </aside>
+
+    <main class="content">
+      <header class="toolbar">
+        <div class="searchbar">
+          <input id="search" type="search" placeholder="Search by question, conversation id…" />
+        </div>
+        <div class="actions">
+          <span id="count" class="muted">0 items</span>
+        </div>
+      </header>
+
+      <section id="list" class="grid"></section>
+    </main>
+
+    <section id="drawer" class="drawer" aria-hidden="true">
+      <div class="drawer-panel">
+        <header class="drawer-header">
+          <div>
+            <div class="drawer-eyebrow" id="drawer-status">Pending</div>
+            <h3 id="drawer-title">—</h3>
+            <div class="meta">
+              <span id="drawer-conv">Conversation: —</span>
+              <span id="drawer-created">Created: —</span>
+              <span id="drawer-updated">Updated: —</span>
+            </div>
+          </div>
+          <button id="drawer-close" class="icon-btn" aria-label="Close">✕</button>
+        </header>
+
+        <div class="drawer-body">
+          <label class="label">Question</label>
+          <div id="drawer-question" class="question-box">—</div>
+
+          <label for="answer" class="label">Your answer</label>
+          <textarea id="answer" class="answer" rows="6" placeholder="Type a clear, factual answer the assistant can use…"></textarea>
+
+          <div class="helper">
+            Tip: your answer is saved to the knowledge base and phrased conversationally by the assistant.
+          </div>
+        </div>
+
+        <footer class="drawer-footer">
+          <div class="left">
+            <button id="copy-q" class="btn ghost">Copy Q</button>
+            <button id="copy-a" class="btn ghost">Copy A</button>
+          </div>
+          <div class="right">
+            <button id="mark-unresolved" class="btn ghost">Mark Unresolved</button>
+            <button id="submit" class="btn primary">Submit Answer</button>
+          </div>
+        </footer>
+      </div>   
+
+
+    </section>
+  </div>
+
+  <script src="/admin.js" type="module"></script>
+</body>
+</html>

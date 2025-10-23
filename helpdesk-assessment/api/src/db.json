@@ -1,0 +1,1377 @@
+{
+  "conversations": [
+    {
+      "id": "conv_cc4af67bc5",
+      "started_at": "2025-10-22T15:52:58.771Z",
+      "ended_at": null,
+      "title": "Utkarsh Singh"
+    },
+    {
+      "id": "conv_4f7f79d3a8",
+      "started_at": "2025-10-22T15:57:56.505Z",
+      "ended_at": null,
+      "title": "Price for basic haircut by a professional for men would be?"
+    },
+    {
+      "id": "conv_21f0fd913d",
+      "started_at": "2025-10-22T16:00:54.571Z",
+      "ended_at": "2025-10-22T16:03:29.251Z",
+      "title": "Utkarsh-1"
+    },
+    {
+      "id": "conv_b3b1a3859a",
+      "started_at": "2025-10-22T16:07:09.941Z",
+      "ended_at": null,
+      "title": "Utkarsh-2"
+    },
+    {
+      "id": "conv_7feebf92a2",
+      "started_at": "2025-10-22T16:20:41.700Z",
+      "ended_at": null,
+      "title": "Session-1"
+    },
+    {
+      "id": "conv_4e789585f8",
+      "started_at": "2025-10-22T16:27:21.981Z",
+      "ended_at": null,
+      "title": "Aryan"
+    },
+    {
+      "id": "conv_e6fc8a27f3",
+      "started_at": "2025-10-22T16:52:02.093Z",
+      "ended_at": null,
+      "title": "hi this is"
+    },
+    {
+      "id": "conv_29269603d6",
+      "started_at": "2025-10-22T16:57:05.758Z",
+      "ended_at": "2025-10-22T16:58:19.823Z",
+      "title": "hi this is Utkarsh"
+    },
+    {
+      "id": "conv_00d2308c0e",
+      "started_at": "2025-10-22T16:58:54.178Z",
+      "ended_at": "2025-10-22T17:00:08.626Z",
+      "title": "Utkarsh"
+    },
+    {
+      "id": "conv_19441b2cbd",
+      "started_at": "2025-10-22T17:04:41.017Z",
+      "ended_at": null,
+      "title": "Utkarsh-1"
+    },
+    {
+      "id": "conv_776e22aa69",
+      "started_at": "2025-10-22T17:09:09.804Z",
+      "ended_at": null,
+      "title": "Hi"
+    },
+    {
+      "id": "conv_8ca3fb182a",
+      "started_at": "2025-10-22T17:12:25.695Z",
+      "ended_at": "2025-10-22T17:14:41.073Z",
+      "title": "Hi"
+    },
+    {
+      "id": "conv_10f2072ece",
+      "started_at": "2025-10-22T17:28:33.840Z",
+      "ended_at": null,
+      "title": "Hi"
+    },
+    {
+      "id": "conv_1b2950ea19",
+      "started_at": "2025-10-22T17:29:35.116Z",
+      "ended_at": null,
+      "title": "Hi"
+    },
+    {
+      "id": "conv_70d863b1d0",
+      "started_at": "2025-10-22T17:31:03.183Z",
+      "ended_at": "2025-10-22T17:31:35.231Z",
+      "title": "hello hi"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_fa0d06b911",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "user",
+      "content": "Hi, I'm Utkarsh Singh!",
+      "created_at": "2025-10-22T15:52:58.777Z"
+    },
+    {
+      "id": "msg_4090fc03c9",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "assistant",
+      "content": "Hello Utkarsh Singh, it's nice to meet you! Welcome.",
+      "created_at": "2025-10-22T15:53:03.433Z"
+    },
+    {
+      "id": "msg_a0a22692eb",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "user",
+      "content": "I want to check in on timings for the salon, when will it be open?",
+      "created_at": "2025-10-22T15:53:29.891Z"
+    },
+    {
+      "id": "msg_282f45533a",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T15:53:29.894Z",
+      "help_request_id": "hr_3e6a842c8d"
+    },
+    {
+      "id": "msg_6936433794",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "supervisor",
+      "content": "We are open from 10AM-8PM on weekdays.",
+      "created_at": "2025-10-22T15:53:59.677Z",
+      "help_request_id": "hr_3e6a842c8d"
+    },
+    {
+      "id": "msg_30729ee632",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "assistant",
+      "content": "We are open from 10AM-8PM on weekdays.",
+      "created_at": "2025-10-22T15:54:01.153Z",
+      "help_request_id": "hr_3e6a842c8d"
+    },
+    {
+      "id": "msg_25eabc0958",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "user",
+      "content": "Do you offer scalp treatments?",
+      "created_at": "2025-10-22T15:54:21.952Z"
+    },
+    {
+      "id": "msg_69471bebfc",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "assistant",
+      "content": "Yes, we offer detox and hydrating scalp treatments, which are great add-ons to any service.",
+      "created_at": "2025-10-22T15:54:23.924Z"
+    },
+    {
+      "id": "msg_d5925d0d38",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "user",
+      "content": "What are your weekend hours?",
+      "created_at": "2025-10-22T15:54:49.300Z"
+    },
+    {
+      "id": "msg_9ec2d669ef",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "assistant",
+      "content": "Our weekend hours are Saturday from 9:00 AM to 6:00 PM, and Sunday from 10:00 AM to 4:00 PM.",
+      "created_at": "2025-10-22T15:54:50.530Z"
+    },
+    {
+      "id": "msg_d469ce90ed",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "user",
+      "content": "What are your weekend timings?",
+      "created_at": "2025-10-22T15:55:10.991Z"
+    },
+    {
+      "id": "msg_184fd57595",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "assistant",
+      "content": "Saturday 9:00 AM–6:00 PM and Sunday 10:00 AM–4:00 PM.",
+      "created_at": "2025-10-22T15:55:13.395Z"
+    },
+    {
+      "id": "msg_acdd40a1c0",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "user",
+      "content": "Do I need an appointment?",
+      "created_at": "2025-10-22T15:55:57.486Z"
+    },
+    {
+      "id": "msg_94fef021e2",
+      "conversation_id": "conv_cc4af67bc5",
+      "role": "assistant",
+      "content": "No, walk-ins are welcome! However, appointments do guarantee availability and shorter wait times.",
+      "created_at": "2025-10-22T15:56:02.368Z"
+    },
+    {
+      "id": "msg_13863b1b26",
+      "conversation_id": "conv_4f7f79d3a8",
+      "role": "user",
+      "content": "Price for basic haircut by a professional for men would be?",
+      "created_at": "2025-10-22T15:57:56.510Z"
+    },
+    {
+      "id": "msg_6a4fbbcf31",
+      "conversation_id": "conv_4f7f79d3a8",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T15:57:56.513Z",
+      "help_request_id": "hr_8b2fd6cd43"
+    },
+    {
+      "id": "msg_474a754df6",
+      "conversation_id": "conv_4f7f79d3a8",
+      "role": "supervisor",
+      "content": "It is 10$ for haircut for men.",
+      "created_at": "2025-10-22T15:58:40.831Z",
+      "help_request_id": "hr_8b2fd6cd43"
+    },
+    {
+      "id": "msg_87a2c55361",
+      "conversation_id": "conv_4f7f79d3a8",
+      "role": "assistant",
+      "content": "A basic haircut for men costs $10.",
+      "created_at": "2025-10-22T15:58:43.410Z",
+      "help_request_id": "hr_8b2fd6cd43"
+    },
+    {
+      "id": "msg_caeda273a7",
+      "conversation_id": "conv_21f0fd913d",
+      "role": "user",
+      "content": "hi this is Utkarsh Singh",
+      "created_at": "2025-10-22T16:01:02.647Z"
+    },
+    {
+      "id": "msg_22604520ad",
+      "conversation_id": "conv_21f0fd913d",
+      "role": "assistant",
+      "content": "Hello Utkarsh Singh! I'm Adam, the assistant here. How can I help you today?",
+      "created_at": "2025-10-22T16:01:06.165Z"
+    },
+    {
+      "id": "msg_744051eeab",
+      "conversation_id": "conv_21f0fd913d",
+      "role": "user",
+      "content": "what are your weekdays timings",
+      "created_at": "2025-10-22T16:01:19.309Z"
+    },
+    {
+      "id": "msg_713921a1eb",
+      "conversation_id": "conv_21f0fd913d",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T16:01:19.313Z",
+      "help_request_id": "hr_c070ebe2e4"
+    },
+    {
+      "id": "msg_30e40427aa",
+      "conversation_id": "conv_21f0fd913d",
+      "role": "supervisor",
+      "content": "We are open from 8AM-8PM on weekdays.",
+      "created_at": "2025-10-22T16:02:58.857Z",
+      "help_request_id": "hr_c070ebe2e4"
+    },
+    {
+      "id": "msg_b3a5c493cc",
+      "conversation_id": "conv_21f0fd913d",
+      "role": "assistant",
+      "content": "Our weekday timings are from 8 AM to 8 PM.",
+      "created_at": "2025-10-22T16:03:00.955Z",
+      "help_request_id": "hr_c070ebe2e4"
+    },
+    {
+      "id": "msg_5df1af6d3f",
+      "conversation_id": "conv_21f0fd913d",
+      "role": "user",
+      "content": "How much does a men’s haircut cost?",
+      "created_at": "2025-10-22T16:03:17.724Z"
+    },
+    {
+      "id": "msg_bfb7085c59",
+      "conversation_id": "conv_21f0fd913d",
+      "role": "assistant",
+      "content": "Men’s haircuts start at $30.",
+      "created_at": "2025-10-22T16:03:19.974Z"
+    },
+    {
+      "id": "msg_dc78a88e89",
+      "conversation_id": "conv_b3b1a3859a",
+      "role": "user",
+      "content": "what are your weekdays timings?",
+      "created_at": "2025-10-22T16:07:10.004Z"
+    },
+    {
+      "id": "msg_68a74fea26",
+      "conversation_id": "conv_b3b1a3859a",
+      "role": "assistant",
+      "content": "We are open from 8 AM to 8 PM on weekdays.",
+      "created_at": "2025-10-22T16:07:12.038Z"
+    },
+    {
+      "id": "msg_2cf5fa6387",
+      "conversation_id": "conv_7feebf92a2",
+      "role": "user",
+      "content": "Hi, This is Utkarsh",
+      "created_at": "2025-10-22T16:20:41.709Z"
+    },
+    {
+      "id": "msg_4b875793f5",
+      "conversation_id": "conv_7feebf92a2",
+      "role": "assistant",
+      "content": "Hi Utkarsh, welcome! How can I help you today?",
+      "created_at": "2025-10-22T16:20:45.305Z"
+    },
+    {
+      "id": "msg_88926fe997",
+      "conversation_id": "conv_7feebf92a2",
+      "role": "user",
+      "content": "what are your weekdays timings?",
+      "created_at": "2025-10-22T16:20:49.159Z"
+    },
+    {
+      "id": "msg_cbe349cd15",
+      "conversation_id": "conv_7feebf92a2",
+      "role": "assistant",
+      "content": "We're open from 8 AM to 8 PM on weekdays.",
+      "created_at": "2025-10-22T16:20:50.669Z"
+    },
+    {
+      "id": "msg_bd9bdafa19",
+      "conversation_id": "conv_7feebf92a2",
+      "role": "user",
+      "content": "Do you do Keratin treatment?",
+      "created_at": "2025-10-22T16:21:20.247Z"
+    },
+    {
+      "id": "msg_68c20403e3",
+      "conversation_id": "conv_7feebf92a2",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T16:21:20.249Z",
+      "help_request_id": "hr_0cc40fc567"
+    },
+    {
+      "id": "msg_315ef7da6b",
+      "conversation_id": "conv_7feebf92a2",
+      "role": "supervisor",
+      "content": "Yes, We do offer Keratin treatment.",
+      "created_at": "2025-10-22T16:22:55.128Z",
+      "help_request_id": "hr_0cc40fc567"
+    },
+    {
+      "id": "msg_079259b654",
+      "conversation_id": "conv_7feebf92a2",
+      "role": "assistant",
+      "content": "Yes, we do offer Keratin treatment.",
+      "created_at": "2025-10-22T16:22:58.757Z",
+      "help_request_id": "hr_0cc40fc567"
+    },
+    {
+      "id": "msg_16f20f8ce4",
+      "conversation_id": "conv_4e789585f8",
+      "role": "user",
+      "content": "hi this is Aryan",
+      "created_at": "2025-10-22T16:27:31.871Z"
+    },
+    {
+      "id": "msg_17c06eb1db",
+      "conversation_id": "conv_4e789585f8",
+      "role": "assistant",
+      "content": "Hello Aryan! It's nice to meet you. How can I help you today?",
+      "created_at": "2025-10-22T16:27:34.903Z"
+    },
+    {
+      "id": "msg_5ead362e13",
+      "conversation_id": "conv_4e789585f8",
+      "role": "user",
+      "content": "what is your location",
+      "created_at": "2025-10-22T16:28:22.673Z"
+    },
+    {
+      "id": "msg_8c21ea666d",
+      "conversation_id": "conv_4e789585f8",
+      "role": "assistant",
+      "content": "That's a great question! As your virtual assistant, I don't have a physical location myself. Are you looking for our main office, or perhaps a specific branch? I'd be happy to help you find that information!",
+      "created_at": "2025-10-22T16:28:33.213Z"
+    },
+    {
+      "id": "msg_63c59e0adf",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "user",
+      "content": "hi this is",
+      "created_at": "2025-10-22T16:52:08.211Z"
+    },
+    {
+      "id": "msg_8dbb455a30",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "assistant",
+      "content": "Hello! Assistant Adam here. How can I help you today?",
+      "created_at": "2025-10-22T16:52:10.907Z"
+    },
+    {
+      "id": "msg_3b7405074a",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "user",
+      "content": "where is the location for salon?",
+      "created_at": "2025-10-22T16:52:19.956Z"
+    },
+    {
+      "id": "msg_48427b1b43",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T16:52:19.960Z",
+      "help_request_id": "hr_ce8f9bb5cc"
+    },
+    {
+      "id": "msg_95f8027512",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "supervisor",
+      "content": "123, Avenue Road, Oval, England",
+      "created_at": "2025-10-22T16:52:57.518Z",
+      "help_request_id": "hr_ce8f9bb5cc"
+    },
+    {
+      "id": "msg_9f18d18362",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "assistant",
+      "content": "The salon is located at 123, Avenue Road, Oval, England.",
+      "created_at": "2025-10-22T16:52:58.817Z",
+      "help_request_id": "hr_ce8f9bb5cc"
+    },
+    {
+      "id": "msg_64a321084a",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "user",
+      "content": "What's your phone number?",
+      "created_at": "2025-10-22T16:55:18.195Z"
+    },
+    {
+      "id": "msg_464186b393",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "assistant",
+      "content": "You can reach us at (555) 123-4567 during business hours!",
+      "created_at": "2025-10-22T16:55:20.249Z"
+    },
+    {
+      "id": "msg_4ed099c13d",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "user",
+      "content": "What are your business hours?",
+      "created_at": "2025-10-22T16:55:42.517Z"
+    },
+    {
+      "id": "msg_3cb441a078",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "assistant",
+      "content": "We're open Monday through Friday, from 8:00 AM to 8:00 PM.",
+      "created_at": "2025-10-22T16:55:44.910Z"
+    },
+    {
+      "id": "msg_0020c7fb4e",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "user",
+      "content": "On weekends?",
+      "created_at": "2025-10-22T16:55:55.605Z"
+    },
+    {
+      "id": "msg_0f2fca10e2",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "assistant",
+      "content": "Weekends? Happy to help! Could you tell me a bit more about what you're curious about?",
+      "created_at": "2025-10-22T16:56:00.548Z"
+    },
+    {
+      "id": "msg_0b16c0b87c",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "user",
+      "content": "Your weekend hours?",
+      "created_at": "2025-10-22T16:56:16.445Z"
+    },
+    {
+      "id": "msg_f02b8369dc",
+      "conversation_id": "conv_e6fc8a27f3",
+      "role": "assistant",
+      "content": "Oh, good question! I don't have our specific weekend hours right at my fingertips. Would you like me to connect you to someone who can help with that, or direct you to where that information is posted?",
+      "created_at": "2025-10-22T16:56:22.602Z"
+    },
+    {
+      "id": "msg_e8ca35608b",
+      "conversation_id": "conv_29269603d6",
+      "role": "user",
+      "content": "hi this is Utkarsh",
+      "created_at": "2025-10-22T16:57:13.147Z"
+    },
+    {
+      "id": "msg_b8b83001ee",
+      "conversation_id": "conv_29269603d6",
+      "role": "assistant",
+      "content": "Hello Utkarsh, welcome! How may I assist you today?",
+      "created_at": "2025-10-22T16:57:15.156Z"
+    },
+    {
+      "id": "msg_a679abe1f2",
+      "conversation_id": "conv_29269603d6",
+      "role": "user",
+      "content": "where is the location for salon",
+      "created_at": "2025-10-22T16:57:22.361Z"
+    },
+    {
+      "id": "msg_ed585d6c07",
+      "conversation_id": "conv_29269603d6",
+      "role": "assistant",
+      "content": "The salon is located at 123, Avenue Road, Oval, England.",
+      "created_at": "2025-10-22T16:57:23.988Z"
+    },
+    {
+      "id": "msg_efab0e9363",
+      "conversation_id": "conv_29269603d6",
+      "role": "user",
+      "content": "what are your business hours on weekdays",
+      "created_at": "2025-10-22T16:57:39.676Z"
+    },
+    {
+      "id": "msg_0fd0a006e5",
+      "conversation_id": "conv_29269603d6",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T16:57:39.678Z",
+      "help_request_id": "hr_256d8571db"
+    },
+    {
+      "id": "msg_f0f1018d06",
+      "conversation_id": "conv_29269603d6",
+      "role": "supervisor",
+      "content": "We’re open Monday–Friday, 8:00 AM to 8:00 PM.",
+      "created_at": "2025-10-22T16:58:05.892Z",
+      "help_request_id": "hr_256d8571db"
+    },
+    {
+      "id": "msg_e2dd94c6be",
+      "conversation_id": "conv_29269603d6",
+      "role": "assistant",
+      "content": "We're open Monday through Friday, from 8:00 AM to 8:00 PM.",
+      "created_at": "2025-10-22T16:58:07.997Z",
+      "help_request_id": "hr_256d8571db"
+    },
+    {
+      "id": "msg_7d3ea80183",
+      "conversation_id": "conv_00d2308c0e",
+      "role": "user",
+      "content": "Hi",
+      "created_at": "2025-10-22T16:58:58.509Z"
+    },
+    {
+      "id": "msg_3248003685",
+      "conversation_id": "conv_00d2308c0e",
+      "role": "assistant",
+      "content": "Hello there! Welcome!",
+      "created_at": "2025-10-22T16:59:00.826Z"
+    },
+    {
+      "id": "msg_9c80d29b32",
+      "conversation_id": "conv_00d2308c0e",
+      "role": "user",
+      "content": "I wanted to check for business hours on weekdays",
+      "created_at": "2025-10-22T16:59:24.301Z"
+    },
+    {
+      "id": "msg_178480c25d",
+      "conversation_id": "conv_00d2308c0e",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T16:59:24.303Z",
+      "help_request_id": "hr_3c710a7090"
+    },
+    {
+      "id": "msg_f1445c6b79",
+      "conversation_id": "conv_00d2308c0e",
+      "role": "supervisor",
+      "content": "We’re open Monday–Friday, 8:00 AM to 8:00 PM.",
+      "created_at": "2025-10-22T16:59:53.838Z",
+      "help_request_id": "hr_3c710a7090"
+    },
+    {
+      "id": "msg_f16a0c20f6",
+      "conversation_id": "conv_00d2308c0e",
+      "role": "supervisor",
+      "content": "We’re open Monday–Friday, 8:00 AM to 8:00 PM.",
+      "created_at": "2025-10-22T16:59:55.261Z",
+      "help_request_id": "hr_3c710a7090"
+    },
+    {
+      "id": "msg_726c616817",
+      "conversation_id": "conv_00d2308c0e",
+      "role": "assistant",
+      "content": "We're open Monday to Friday, from 8:00 AM to 8:00 PM.",
+      "created_at": "2025-10-22T16:59:56.069Z",
+      "help_request_id": "hr_3c710a7090"
+    },
+    {
+      "id": "msg_510f9562a7",
+      "conversation_id": "conv_00d2308c0e",
+      "role": "assistant",
+      "content": "On weekdays, we're open from 8:00 AM to 8:00 PM, Monday through Friday.",
+      "created_at": "2025-10-22T16:59:57.226Z",
+      "help_request_id": "hr_3c710a7090"
+    },
+    {
+      "id": "msg_5edd3bec9b",
+      "conversation_id": "conv_19441b2cbd",
+      "role": "user",
+      "content": "Hi",
+      "created_at": "2025-10-22T17:04:45.979Z"
+    },
+    {
+      "id": "msg_baea20786b",
+      "conversation_id": "conv_19441b2cbd",
+      "role": "assistant",
+      "content": "Hello there! Welcome.",
+      "created_at": "2025-10-22T17:04:49.876Z"
+    },
+    {
+      "id": "msg_df33749d7a",
+      "conversation_id": "conv_19441b2cbd",
+      "role": "user",
+      "content": "I want know location of salon",
+      "created_at": "2025-10-22T17:05:02.709Z"
+    },
+    {
+      "id": "msg_3697b511f4",
+      "conversation_id": "conv_19441b2cbd",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T17:05:02.714Z",
+      "help_request_id": "hr_e55a7ad05b"
+    },
+    {
+      "id": "msg_8dcaf50081",
+      "conversation_id": "conv_19441b2cbd",
+      "role": "supervisor",
+      "content": "123, Avenue Road, Oval, England",
+      "created_at": "2025-10-22T17:05:28.787Z",
+      "help_request_id": "hr_e55a7ad05b"
+    },
+    {
+      "id": "msg_8ced53e0cf",
+      "conversation_id": "conv_19441b2cbd",
+      "role": "assistant",
+      "content": "The salon is located at 123, Avenue Road, Oval, England.",
+      "created_at": "2025-10-22T17:05:30.304Z",
+      "help_request_id": "hr_e55a7ad05b"
+    },
+    {
+      "id": "msg_6e9a058d7d",
+      "conversation_id": "conv_19441b2cbd",
+      "role": "user",
+      "content": "Price for haircut for men?",
+      "created_at": "2025-10-22T17:05:47.915Z"
+    },
+    {
+      "id": "msg_b8695bd4d7",
+      "conversation_id": "conv_19441b2cbd",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T17:05:47.918Z",
+      "help_request_id": "hr_595d028525"
+    },
+    {
+      "id": "msg_6eb07dc1ed",
+      "conversation_id": "conv_776e22aa69",
+      "role": "user",
+      "content": "Hi",
+      "created_at": "2025-10-22T17:09:09.811Z"
+    },
+    {
+      "id": "msg_460b8eb918",
+      "conversation_id": "conv_776e22aa69",
+      "role": "assistant",
+      "content": "Hello there! How can I help you today?",
+      "created_at": "2025-10-22T17:09:11.288Z"
+    },
+    {
+      "id": "msg_6191dfd23f",
+      "conversation_id": "conv_776e22aa69",
+      "role": "user",
+      "content": "What's your location of salon?",
+      "created_at": "2025-10-22T17:09:23.588Z"
+    },
+    {
+      "id": "msg_f0b7272ef5",
+      "conversation_id": "conv_776e22aa69",
+      "role": "assistant",
+      "content": "I don't have information about the salon's location, but you can reach us at (555) 123-4567 during business hours.",
+      "created_at": "2025-10-22T17:09:25.708Z"
+    },
+    {
+      "id": "msg_6079d07d63",
+      "conversation_id": "conv_776e22aa69",
+      "role": "user",
+      "content": "Price for haircut for men?",
+      "created_at": "2025-10-22T17:09:39.132Z"
+    },
+    {
+      "id": "msg_281c70a5d0",
+      "conversation_id": "conv_776e22aa69",
+      "role": "assistant",
+      "content": "A men's haircut costs $10.",
+      "created_at": "2025-10-22T17:09:40.852Z"
+    },
+    {
+      "id": "msg_5a2f3b44b7",
+      "conversation_id": "conv_776e22aa69",
+      "role": "user",
+      "content": "Price for womens haircut?",
+      "created_at": "2025-10-22T17:09:53.272Z"
+    },
+    {
+      "id": "msg_b4267d9dbf",
+      "conversation_id": "conv_776e22aa69",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T17:09:53.275Z",
+      "help_request_id": "hr_3d184d705e"
+    },
+    {
+      "id": "msg_a1e2ef456d",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "user",
+      "content": "Hi",
+      "created_at": "2025-10-22T17:12:28.629Z"
+    },
+    {
+      "id": "msg_6bb9d6cb29",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "assistant",
+      "content": "Hello! Welcome.",
+      "created_at": "2025-10-22T17:12:31.369Z"
+    },
+    {
+      "id": "msg_6f8a85a5f9",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "user",
+      "content": "hi I just wanted to check location of Cello",
+      "created_at": "2025-10-22T17:12:39.049Z"
+    },
+    {
+      "id": "msg_94c973b899",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "assistant",
+      "content": "Hello there! I'm happy to help.\n\nCould you tell me a little more about \"Cello\"? For example, are you looking for a person, a room, or something else? Knowing a bit more will help me find the right information for you.",
+      "created_at": "2025-10-22T17:12:41.995Z"
+    },
+    {
+      "id": "msg_03f76b7869",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "user",
+      "content": "I wanted to check",
+      "created_at": "2025-10-22T17:12:52.232Z"
+    },
+    {
+      "id": "msg_380427ec5d",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-22T17:12:53.936Z"
+    },
+    {
+      "id": "msg_60f5b4436c",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "user",
+      "content": "I wanted to check for location of Salon",
+      "created_at": "2025-10-22T17:13:10.143Z"
+    },
+    {
+      "id": "msg_2db435a0de",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "assistant",
+      "content": "I don't have information about the Salon's location. I only know its hours are Monday–Friday, 8:00 AM to 8:00 PM.",
+      "created_at": "2025-10-22T17:13:12.220Z"
+    },
+    {
+      "id": "msg_ff2a9b25cb",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "user",
+      "content": "Where is the Salon",
+      "created_at": "2025-10-22T17:13:29.854Z"
+    },
+    {
+      "id": "msg_c40cf3f6e5",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "assistant",
+      "content": "Oh, that's a great question! I don't have the specific location details for the Salon right here. Can I help you with anything else today?",
+      "created_at": "2025-10-22T17:13:37.235Z"
+    },
+    {
+      "id": "msg_d26a8f4800",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "user",
+      "content": "Do you offer Keratin treatment?",
+      "created_at": "2025-10-22T17:14:11.232Z"
+    },
+    {
+      "id": "msg_b65b48c172",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "assistant",
+      "content": "Yes, we do offer Keratin treatment.",
+      "created_at": "2025-10-22T17:14:13.217Z"
+    },
+    {
+      "id": "msg_bc632d0169",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "user",
+      "content": "What is keratin treatment?",
+      "created_at": "2025-10-22T17:14:29.328Z"
+    },
+    {
+      "id": "msg_928244ac54",
+      "conversation_id": "conv_8ca3fb182a",
+      "role": "assistant",
+      "content": "I'm sorry, I don't have information on what keratin treatment is, but I can confirm that we do offer it.",
+      "created_at": "2025-10-22T17:14:32.758Z"
+    },
+    {
+      "id": "msg_8a71abd3af",
+      "conversation_id": "conv_10f2072ece",
+      "role": "user",
+      "content": "Hi",
+      "created_at": "2025-10-22T17:28:50.030Z"
+    },
+    {
+      "id": "msg_b9140e25e0",
+      "conversation_id": "conv_10f2072ece",
+      "role": "assistant",
+      "content": "Hello there! Welcome. How can I assist you today?",
+      "created_at": "2025-10-22T17:28:52.182Z"
+    },
+    {
+      "id": "msg_fc5f133ef6",
+      "conversation_id": "conv_10f2072ece",
+      "role": "user",
+      "content": "Price for haircut for men?",
+      "created_at": "2025-10-22T17:29:12.897Z"
+    },
+    {
+      "id": "msg_62e482bf16",
+      "conversation_id": "conv_10f2072ece",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-22T17:29:12.902Z",
+      "help_request_id": "hr_7e5aa8e6c8"
+    },
+    {
+      "id": "msg_6bf0303f13",
+      "conversation_id": "conv_1b2950ea19",
+      "role": "user",
+      "content": "Hi",
+      "created_at": "2025-10-22T17:29:35.121Z"
+    },
+    {
+      "id": "msg_1c937478dd",
+      "conversation_id": "conv_1b2950ea19",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-22T17:29:36.236Z"
+    },
+    {
+      "id": "msg_90605c3f76",
+      "conversation_id": "conv_1b2950ea19",
+      "role": "user",
+      "content": "Haircut Price for men?",
+      "created_at": "2025-10-22T17:29:48.263Z"
+    },
+    {
+      "id": "msg_96f4c6a925",
+      "conversation_id": "conv_1b2950ea19",
+      "role": "assistant",
+      "content": "Oh, that's a good question! For our current pricing, I'd recommend checking our website or speaking directly with our salon team. They'll have the most up-to-date information for you.",
+      "created_at": "2025-10-22T17:29:54.834Z"
+    },
+    {
+      "id": "msg_6a735308a5",
+      "conversation_id": "conv_1b2950ea19",
+      "role": "user",
+      "content": "How much does a women’s haircut cost?",
+      "created_at": "2025-10-22T17:30:23.455Z"
+    },
+    {
+      "id": "msg_07101780c6",
+      "conversation_id": "conv_1b2950ea19",
+      "role": "assistant",
+      "content": "Women's haircuts start at $45, with the final price depending on hair length and your stylist's level.",
+      "created_at": "2025-10-22T17:30:25.328Z"
+    },
+    {
+      "id": "msg_68ddf8bb97",
+      "conversation_id": "conv_1b2950ea19",
+      "role": "user",
+      "content": "How much does a men’s haircut cost?",
+      "created_at": "2025-10-22T17:30:41.669Z"
+    },
+    {
+      "id": "msg_be7d1fd75d",
+      "conversation_id": "conv_1b2950ea19",
+      "role": "assistant",
+      "content": "A men's haircut starts at $30.",
+      "created_at": "2025-10-22T17:30:43.475Z"
+    },
+    {
+      "id": "msg_a272e56a18",
+      "conversation_id": "conv_70d863b1d0",
+      "role": "user",
+      "content": "hello hi",
+      "created_at": "2025-10-22T17:31:07.475Z"
+    },
+    {
+      "id": "msg_8ca76e3b79",
+      "conversation_id": "conv_70d863b1d0",
+      "role": "assistant",
+      "content": "Hello there! Welcome!",
+      "created_at": "2025-10-22T17:31:09.531Z"
+    },
+    {
+      "id": "msg_f1d10abad3",
+      "conversation_id": "conv_70d863b1d0",
+      "role": "user",
+      "content": "how much does Men's haircut cost",
+      "created_at": "2025-10-22T17:31:17.464Z"
+    },
+    {
+      "id": "msg_be42304d68",
+      "conversation_id": "conv_70d863b1d0",
+      "role": "assistant",
+      "content": "Men's haircuts start at $30.",
+      "created_at": "2025-10-22T17:31:19.253Z"
+    },
+    {
+      "id": "msg_791d9b13b0",
+      "conversation_id": "conv_70d863b1d0",
+      "role": "user",
+      "content": "how much does women's haircut cost",
+      "created_at": "2025-10-22T17:31:24.945Z"
+    },
+    {
+      "id": "msg_42d0173c5f",
+      "conversation_id": "conv_70d863b1d0",
+      "role": "assistant",
+      "content": "Women's haircuts start at $45, and the price can vary depending on hair length and your stylist's level.",
+      "created_at": "2025-10-22T17:31:27.161Z"
+    }
+  ],
+  "help_requests": [
+    {
+      "id": "hr_3e6a842c8d",
+      "conversation_id": "conv_cc4af67bc5",
+      "question": "I want to check in on timings for the salon, when will it be open?",
+      "status": "resolved",
+      "created_at": "2025-10-22T15:53:29.891Z",
+      "updated_at": "2025-10-22T15:53:59.676Z",
+      "timeout_at": "2025-10-22T16:08:29.891Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_8b2fd6cd43",
+      "conversation_id": "conv_4f7f79d3a8",
+      "question": "Price for basic haircut by a professional for men would be?",
+      "status": "resolved",
+      "created_at": "2025-10-22T15:57:56.510Z",
+      "updated_at": "2025-10-22T15:58:40.831Z",
+      "timeout_at": "2025-10-22T16:12:56.510Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_c070ebe2e4",
+      "conversation_id": "conv_21f0fd913d",
+      "question": "what are your weekdays timings",
+      "status": "resolved",
+      "created_at": "2025-10-22T16:01:19.309Z",
+      "updated_at": "2025-10-22T16:02:58.856Z",
+      "timeout_at": "2025-10-22T16:16:19.309Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_0cc40fc567",
+      "conversation_id": "conv_7feebf92a2",
+      "question": "Do you do Keratin treatment?",
+      "status": "resolved",
+      "created_at": "2025-10-22T16:21:20.247Z",
+      "updated_at": "2025-10-22T16:22:55.127Z",
+      "timeout_at": "2025-10-22T16:36:20.247Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_ce8f9bb5cc",
+      "conversation_id": "conv_e6fc8a27f3",
+      "question": "where is the location for salon?",
+      "status": "resolved",
+      "created_at": "2025-10-22T16:52:19.956Z",
+      "updated_at": "2025-10-22T16:52:57.518Z",
+      "timeout_at": "2025-10-22T17:07:19.956Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_256d8571db",
+      "conversation_id": "conv_29269603d6",
+      "question": "what are your business hours on weekdays",
+      "status": "resolved",
+      "created_at": "2025-10-22T16:57:39.676Z",
+      "updated_at": "2025-10-22T16:58:05.891Z",
+      "timeout_at": "2025-10-22T17:12:39.676Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_3c710a7090",
+      "conversation_id": "conv_00d2308c0e",
+      "question": "I wanted to check for business hours on weekdays",
+      "status": "resolved",
+      "created_at": "2025-10-22T16:59:24.301Z",
+      "updated_at": "2025-10-22T16:59:55.260Z",
+      "timeout_at": "2025-10-22T17:14:24.301Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_e55a7ad05b",
+      "conversation_id": "conv_19441b2cbd",
+      "question": "I want know location of salon",
+      "status": "resolved",
+      "created_at": "2025-10-22T17:05:02.709Z",
+      "updated_at": "2025-10-22T17:05:28.786Z",
+      "timeout_at": "2025-10-22T17:20:02.709Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_595d028525",
+      "conversation_id": "conv_19441b2cbd",
+      "question": "Price for haircut for men?",
+      "status": "pending",
+      "created_at": "2025-10-22T17:05:47.915Z",
+      "updated_at": "2025-10-22T17:05:47.915Z",
+      "timeout_at": "2025-10-22T17:20:47.915Z",
+      "tags": []
+    },
+    {
+      "id": "hr_3d184d705e",
+      "conversation_id": "conv_776e22aa69",
+      "question": "Price for womens haircut?",
+      "status": "pending",
+      "created_at": "2025-10-22T17:09:53.272Z",
+      "updated_at": "2025-10-22T17:09:53.272Z",
+      "timeout_at": "2025-10-22T17:24:53.272Z",
+      "tags": []
+    },
+    {
+      "id": "hr_7e5aa8e6c8",
+      "conversation_id": "conv_10f2072ece",
+      "question": "Price for haircut for men?",
+      "status": "pending",
+      "created_at": "2025-10-22T17:29:12.897Z",
+      "updated_at": "2025-10-22T17:29:12.897Z",
+      "timeout_at": "2025-10-22T17:44:12.897Z",
+      "tags": []
+    }
+  ],
+  "kb": [
+    {
+      "id": "kb_seed_1",
+      "question": "What are your weekday hours?",
+      "answer": "We’re open Monday–Friday, 8:00 AM to 8:00 PM.",
+      "created_at": "2025-10-22T15:52:06.036Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_2",
+      "question": "What are your weekend hours?",
+      "answer": "Saturday 9:00 AM–6:00 PM and Sunday 10:00 AM–4:00 PM.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_3",
+      "question": "Do I need an appointment?",
+      "answer": "Walk-ins are welcome, but appointments guarantee availability and shorter wait times.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_4",
+      "question": "How can I book an appointment?",
+      "answer": "Book online via our website, in our mobile app, or call the front desk at (555) 123-4567.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_5",
+      "question": "Do you accept walk-ins?",
+      "answer": "Yes, we accept walk-ins whenever a stylist is available.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_6",
+      "question": "What services do you offer?",
+      "answer": "Haircuts, blowouts, coloring, highlights, balayage, keratin, scalp treatments, beard trims, and special-occasion styling.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_7",
+      "question": "How much does a women’s haircut cost?",
+      "answer": "Women’s haircuts start at $45; price varies by length and stylist level.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_8",
+      "question": "How much does a men’s haircut cost?",
+      "answer": "Men’s haircuts start at $30; add-ons like beard trim are available.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_9",
+      "question": "Do you offer kids haircuts?",
+      "answer": "Yes, kids’ cuts (under 12) start at $25.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_10",
+      "question": "Do you do color corrections?",
+      "answer": "Yes. A consultation is required; pricing depends on the complexity and time required.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_11",
+      "question": "What is the price for hair coloring?",
+      "answer": "Single-process color starts at $70; highlights at $95; balayage from $130.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_12",
+      "question": "Do you offer balayage?",
+      "answer": "Yes, we specialize in balayage with custom tonal blending. Pricing starts at $130.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_13",
+      "question": "Do you offer keratin treatments?",
+      "answer": "Yes, keratin smoothing treatments are available and typically last 3–5 months.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_14",
+      "question": "How long does a keratin treatment last?",
+      "answer": "Most guests see results for 3–5 months with recommended aftercare.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_15",
+      "question": "What products do you use?",
+      "answer": "We use salon-grade brands such as Redken, Olaplex, and Kevin Murphy.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_16",
+      "question": "Can I buy products in store?",
+      "answer": "Yes, retail products are available at the front desk and online for pickup.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_17",
+      "question": "Do you style for weddings or events?",
+      "answer": "Yes, we offer bridal trials, bridal hair, and group styling. Please book at least 2–4 weeks in advance.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_18",
+      "question": "Do you offer makeup services?",
+      "answer": "Yes, makeup application is available by appointment.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_19",
+      "question": "How far in advance should I book?",
+      "answer": "For weekends and color services, we recommend booking 1–2 weeks in advance.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_20",
+      "question": "What is your cancellation policy?",
+      "answer": "Please cancel or reschedule at least 24 hours in advance to avoid a late-cancellation fee.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_21",
+      "question": "Is there a no-show fee?",
+      "answer": "Yes, no-shows may be charged up to 50% of the scheduled service.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_22",
+      "question": "Do you accept credit cards?",
+      "answer": "Yes, we accept major credit cards, Apple Pay, Google Pay, and cash.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_23",
+      "question": "Do you accept tips?",
+      "answer": "Yes, tips are appreciated and can be left in cash or added to card payments.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_24",
+      "question": "Is parking available?",
+      "answer": "Yes, we validate up to 90 minutes in the garage next door; street parking is also available.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_25",
+      "question": "Are you accessible for wheelchairs?",
+      "answer": "Yes, our entrance and shampoo stations are wheelchair accessible.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_26",
+      "question": "Do you have gift cards?",
+      "answer": "Yes, gift cards are available in any amount, in-store and online.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_27",
+      "question": "Do you do perms?",
+      "answer": "Yes, perms are available upon consultation to assess hair type and desired result.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_28",
+      "question": "Do you offer scalp treatments?",
+      "answer": "Yes, we offer detox and hydrating scalp treatments—great add-ons to any service.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_29",
+      "question": "How long does a typical appointment take?",
+      "answer": "Haircuts usually take 30–45 minutes; color services may take 1.5–3 hours depending on complexity.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_seed_30",
+      "question": "What’s your phone number?",
+      "answer": "You can reach us at (555) 123-4567 during business hours.",
+      "created_at": "2025-10-22T15:52:06.037Z",
+      "updated_at": "2025-10-22T15:52:06.037Z",
+      "last_help_request_id": null
+    },
+    {
+      "id": "kb_6220f24b75",
+      "question": "I want to check in on timings for the salon, when will it be open?",
+      "answer": "We are open from 10AM-8PM on weekdays.",
+      "created_at": "2025-10-22T15:53:59.678Z",
+      "updated_at": "2025-10-22T15:53:59.678Z",
+      "last_help_request_id": "hr_3e6a842c8d"
+    },
+    {
+      "id": "kb_da4e6c277e",
+      "question": "Price for basic haircut by a professional for men would be?",
+      "answer": "It is 10$ for haircut for men.",
+      "created_at": "2025-10-22T15:58:40.832Z",
+      "updated_at": "2025-10-22T15:58:40.832Z",
+      "last_help_request_id": "hr_8b2fd6cd43"
+    },
+    {
+      "id": "kb_563c0fabe0",
+      "question": "what are your weekdays timings",
+      "answer": "We are open from 8AM-8PM on weekdays.",
+      "created_at": "2025-10-22T16:02:58.858Z",
+      "updated_at": "2025-10-22T16:02:58.858Z",
+      "last_help_request_id": "hr_c070ebe2e4"
+    },
+    {
+      "id": "kb_7ff9c3788a",
+      "question": "Do you do Keratin treatment?",
+      "answer": "Yes, We do offer Keratin treatment.",
+      "created_at": "2025-10-22T16:22:55.130Z",
+      "updated_at": "2025-10-22T16:22:55.130Z",
+      "last_help_request_id": "hr_0cc40fc567"
+    },
+    {
+      "id": "kb_3d0a51c66c",
+      "question": "where is the location for salon?",
+      "answer": "123, Avenue Road, Oval, England",
+      "created_at": "2025-10-22T16:52:57.520Z",
+      "updated_at": "2025-10-22T16:52:57.520Z",
+      "last_help_request_id": "hr_ce8f9bb5cc"
+    },
+    {
+      "id": "kb_3c27cb3d01",
+      "question": "what are your business hours on weekdays",
+      "answer": "We’re open Monday–Friday, 8:00 AM to 8:00 PM.",
+      "created_at": "2025-10-22T16:58:05.893Z",
+      "updated_at": "2025-10-22T16:58:05.893Z",
+      "last_help_request_id": "hr_256d8571db"
+    },
+    {
+      "id": "kb_ca2f3389af",
+      "question": "I wanted to check for business hours on weekdays",
+      "answer": "We’re open Monday–Friday, 8:00 AM to 8:00 PM.",
+      "created_at": "2025-10-22T16:59:53.839Z",
+      "updated_at": "2025-10-22T16:59:55.262Z",
+      "last_help_request_id": "hr_3c710a7090"
+    },
+    {
+      "id": "kb_6830fc73f6",
+      "question": "I want know location of salon",
+      "answer": "123, Avenue Road, Oval, England",
+      "created_at": "2025-10-22T17:05:28.788Z",
+      "updated_at": "2025-10-22T17:05:28.788Z",
+      "last_help_request_id": "hr_e55a7ad05b"
+    }
+  ]
+}

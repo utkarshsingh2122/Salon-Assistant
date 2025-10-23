@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Transcript — Assistant Adam</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/styles.css" />
+  <style>
+    .shell { max-width: 1100px; margin: 24px auto; padding: 0 16px; }
+    .header {
+      display:flex; justify-content:space-between; align-items:center; gap:12px;
+      padding:14px 16px; border:1px solid var(--border); border-radius:16px;
+      background: linear-gradient(180deg, #0c1633, #0b132b); box-shadow: var(--shadow);
+    }
+    .title { font-weight: 700; }
+    .muted { color: var(--muted); font-size:12px; }
+    .pill { padding: 6px 10px; border-radius: 999px; border: 1px solid var(--border); font-size: 12px; }
+    .feed {
+      margin-top:16px; height:auto; min-height: 50vh;
+      padding: 14px 16px; display:flex; flex-direction:column; gap:10px;
+      border: 1px solid var(--border); border-radius: 16px;
+      background: linear-gradient(180deg, #0c1633, #0b132b); box-shadow: var(--shadow);
+    }
+    .meta { color: var(--muted); font-size: 11px; margin-top: 4px; }
+    .row { display:flex; gap:10px; align-items:center; font-size:13px; color:#c7d2fe; }
+    .btn { all:unset; cursor:pointer; padding:10px 12px; border-radius:12px; border:1px solid var(--border); background:#0b162f; color:var(--ink); }
+    .btn:hover { outline: 1px solid rgba(255,255,255,0.08); }
+    .btn.primary { background: linear-gradient(180deg, #2563eb, #1e3a8a); border-color:#1e40af; }
+    .empty { margin: 28px 0; text-align:center; color: var(--muted); }
+    .divider { text-align:center; color: var(--muted); font-size:12px; margin:10px 0; }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <div class="header">
+      <div>
+        <div class="title" id="session-title">(loading…)</div>
+        <div class="muted" id="session-sub">—</div>
+      </div>
+      <div class="actions">
+        <a class="btn" href="/history.html">← Back to History</a>
+        <a class="btn" href="/">Client UI</a>
+      </div>
+    </div>
+
+    <div id="feed" class="feed"></div>
+    <div id="empty" class="empty" style="display:none;">No transcript found for this session.</div>
+  </div>
+
+  <script src="/transcript.js" type="module"></script>
+</body>
+</html>

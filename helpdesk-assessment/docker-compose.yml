@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  api:
+    build: ./api
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=development
+    env_file:
+      - ./api/.env
+    volumes:
+      - ./data:/app/data
+      - ./api/src:/app/src

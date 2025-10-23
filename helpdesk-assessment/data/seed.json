@@ -1,0 +1,2367 @@
+{
+  "customers": [
+    {
+      "id": "cust_demo",
+      "phone": "+1-202-555-0101",
+      "name": "Demo Caller",
+      "created_at": "2025-01-01T00:00:00.000Z"
+    }
+  ],
+  "help_requests": [
+    {
+      "id": "hr_09665ef5c0",
+      "customer_id": "cust_demo",
+      "question": "Tomorrow Salon will be opening ?",
+      "status": "resolved",
+      "created_at": "2025-10-17T12:28:47.148Z",
+      "updated_at": "2025-10-17T12:37:10.342Z",
+      "timeout_at": "2025-10-17T12:43:47.148Z",
+      "source_call_id": null,
+      "supervisor_answer_id": "ans_922e78d0d7",
+      "tags": []
+    },
+    {
+      "id": "hr_55ae801fbc",
+      "customer_id": "cust_demo",
+      "question": "Tomorrow  Salon is closed",
+      "status": "resolved",
+      "created_at": "2025-10-17T12:38:28.151Z",
+      "updated_at": "2025-10-17T12:38:41.473Z",
+      "timeout_at": "2025-10-17T12:53:28.151Z",
+      "source_call_id": null,
+      "supervisor_answer_id": "ans_6488365216",
+      "tags": []
+    },
+    {
+      "id": "hr_0a5571d52b",
+      "customer_id": "cust_demo",
+      "question": "and what about day after tomorrow",
+      "status": "resolved",
+      "created_at": "2025-10-17T13:24:11.253Z",
+      "updated_at": "2025-10-17T13:24:36.438Z",
+      "timeout_at": "2025-10-17T13:39:11.253Z",
+      "source_call_id": null,
+      "supervisor_answer_id": "ans_93c5fb901f",
+      "tags": []
+    },
+    {
+      "id": "hr_921a894000",
+      "customer_id": "cust_demo",
+      "question": "Yesterday salon was opened ?",
+      "status": "resolved",
+      "created_at": "2025-10-17T13:33:34.789Z",
+      "updated_at": "2025-10-17T13:34:02.424Z",
+      "timeout_at": "2025-10-17T13:48:34.789Z",
+      "source_call_id": null,
+      "supervisor_answer_id": "ans_5fbf157429",
+      "tags": []
+    },
+    {
+      "id": "hr_da8ab94dec",
+      "customer_id": "cust_demo",
+      "question": "speak Mujhe bolna",
+      "status": "unresolved",
+      "created_at": "2025-10-17T13:37:42.187Z",
+      "updated_at": "2025-10-17T13:52:44.450Z",
+      "timeout_at": "2025-10-17T13:52:42.187Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_3e7428ec87",
+      "customer_id": "cust_demo",
+      "question": "why is the salon open now",
+      "status": "unresolved",
+      "created_at": "2025-10-17T13:37:51.965Z",
+      "updated_at": "2025-10-17T13:53:14.458Z",
+      "timeout_at": "2025-10-17T13:52:51.965Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_2c8fb123a6",
+      "customer_id": "cust_demo",
+      "question": "hello hi",
+      "status": "unresolved",
+      "created_at": "2025-10-17T13:37:58.665Z",
+      "updated_at": "2025-10-17T13:53:14.459Z",
+      "timeout_at": "2025-10-17T13:52:58.665Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_7a04efcf1e",
+      "customer_id": "cust_demo",
+      "question": "hi is the salon open now",
+      "status": "unresolved",
+      "created_at": "2025-10-17T13:38:15.039Z",
+      "updated_at": "2025-10-17T13:53:44.459Z",
+      "timeout_at": "2025-10-17T13:53:15.039Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_cc23d8b14f",
+      "customer_id": "cust_demo",
+      "question": "what is the salons location",
+      "status": "unresolved",
+      "created_at": "2025-10-17T13:38:47.602Z",
+      "updated_at": "2025-10-17T13:54:14.465Z",
+      "timeout_at": "2025-10-17T13:53:47.602Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_409c320b93",
+      "customer_id": "cust_demo",
+      "question": "where are you at",
+      "status": "unresolved",
+      "created_at": "2025-10-17T14:08:27.436Z",
+      "updated_at": "2025-10-17T14:23:39.259Z",
+      "timeout_at": "2025-10-17T14:23:27.436Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_40d3f562b1",
+      "customer_id": "cust_demo",
+      "question": "what are you working arts",
+      "status": "unresolved",
+      "created_at": "2025-10-17T14:17:15.009Z",
+      "updated_at": "2025-10-17T14:32:39.407Z",
+      "timeout_at": "2025-10-17T14:32:15.009Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_41a9d4b61a",
+      "customer_id": "cust_demo",
+      "question": "what are your arts",
+      "status": "unresolved",
+      "created_at": "2025-10-17T14:21:15.541Z",
+      "updated_at": "2025-10-17T14:36:39.473Z",
+      "timeout_at": "2025-10-17T14:36:15.541Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_666a86c97b",
+      "customer_id": "cust_demo",
+      "question": "keratin treatment",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:14:23.449Z",
+      "updated_at": "2025-10-17T15:29:24.368Z",
+      "timeout_at": "2025-10-17T15:29:23.449Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_41afb12e5b",
+      "customer_id": "cust_demo",
+      "question": "What is keratin treatment",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:15:19.565Z",
+      "updated_at": "2025-10-17T15:30:39.891Z",
+      "timeout_at": "2025-10-17T15:30:19.565Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_6d087cd249",
+      "customer_id": "cust_demo",
+      "question": "what's your location",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:15:39.467Z",
+      "updated_at": "2025-10-17T15:30:39.892Z",
+      "timeout_at": "2025-10-17T15:30:39.467Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_3ac536c7cb",
+      "customer_id": "cust_demo",
+      "question": "currently where you are located",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:15:50.394Z",
+      "updated_at": "2025-10-17T15:31:09.899Z",
+      "timeout_at": "2025-10-17T15:30:50.394Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_859d2b1eea",
+      "customer_id": "cust_demo",
+      "question": "when will you be open",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:17:22.691Z",
+      "updated_at": "2025-10-17T15:32:39.926Z",
+      "timeout_at": "2025-10-17T15:32:22.691Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_2782470c08",
+      "customer_id": "cust_demo",
+      "question": "when you",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:22:58.592Z",
+      "updated_at": "2025-10-17T15:38:18.502Z",
+      "timeout_at": "2025-10-17T15:37:58.592Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_7a686c04f4",
+      "customer_id": "cust_demo",
+      "question": "who is the specialist who will be styling my haircut",
+      "status": "resolved",
+      "created_at": "2025-10-17T15:23:45.598Z",
+      "updated_at": "2025-10-17T15:24:26.145Z",
+      "timeout_at": "2025-10-17T15:38:45.598Z",
+      "source_call_id": null,
+      "supervisor_answer_id": "ans_9ea8bc7d53",
+      "tags": []
+    },
+    {
+      "id": "hr_a4d6af2690",
+      "customer_id": "cust_demo",
+      "question": "and get back to you",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:23:49.325Z",
+      "updated_at": "2025-10-17T15:39:18.515Z",
+      "timeout_at": "2025-10-17T15:38:49.325Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_d63e22724c",
+      "customer_id": "cust_demo",
+      "question": "I need a female hair stylist",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:30:42.729Z",
+      "updated_at": "2025-10-17T15:45:43.627Z",
+      "timeout_at": "2025-10-17T15:45:42.729Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_ae0c76e634",
+      "customer_id": "cust_demo",
+      "question": "I need a female hair stylist",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:33:24.504Z",
+      "updated_at": "2025-10-17T15:48:43.667Z",
+      "timeout_at": "2025-10-17T15:48:24.504Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_9536b3a57c",
+      "customer_id": "cust_demo",
+      "question": "hey there hello",
+      "status": "resolved",
+      "created_at": "2025-10-17T15:34:22.946Z",
+      "updated_at": "2025-10-17T15:34:52.782Z",
+      "timeout_at": "2025-10-17T15:49:22.946Z",
+      "source_call_id": null,
+      "supervisor_answer_id": "ans_1800ae0bf3",
+      "tags": []
+    },
+    {
+      "id": "hr_d5e27985fe",
+      "customer_id": "cust_demo",
+      "question": "I want a female hair stylist",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:38:16.730Z",
+      "updated_at": "2025-10-17T15:54:01.927Z",
+      "timeout_at": "2025-10-17T15:53:16.730Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_9ee89d3695",
+      "customer_id": "cust_demo",
+      "question": "I want a female hair stylist",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:39:52.589Z",
+      "updated_at": "2025-10-17T16:12:51.179Z",
+      "timeout_at": "2025-10-17T15:54:52.589Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_ada1c5825b",
+      "customer_id": "cust_demo",
+      "question": "I need a female hair stylist",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:51:34.673Z",
+      "updated_at": "2025-10-17T16:12:51.180Z",
+      "timeout_at": "2025-10-17T16:06:34.673Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_6fe0e88948",
+      "customer_id": "cust_demo",
+      "question": "I need a female hair stylist",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:52:15.832Z",
+      "updated_at": "2025-10-17T16:12:51.181Z",
+      "timeout_at": "2025-10-17T16:07:15.832Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_ccdc512e79",
+      "customer_id": "cust_demo",
+      "question": "I need a female hair stylist",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:52:40.062Z",
+      "updated_at": "2025-10-17T16:12:51.182Z",
+      "timeout_at": "2025-10-17T16:07:40.062Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_6b227933f5",
+      "customer_id": "cust_demo",
+      "question": "I need a female hair stylist",
+      "status": "unresolved",
+      "created_at": "2025-10-17T15:53:44.765Z",
+      "updated_at": "2025-10-17T16:12:51.183Z",
+      "timeout_at": "2025-10-17T16:08:44.765Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_f51f9897b9",
+      "customer_id": "cust_demo",
+      "question": "I need a female hair stylist",
+      "status": "resolved",
+      "created_at": "2025-10-17T16:13:28.682Z",
+      "updated_at": "2025-10-17T16:14:57.905Z",
+      "timeout_at": "2025-10-17T16:28:28.682Z",
+      "source_call_id": null,
+      "supervisor_answer_id": "ans_e9859f4a7c",
+      "tags": []
+    },
+    {
+      "id": "hr_223c5fb5bc",
+      "customer_id": "cust_demo",
+      "question": "hi this is",
+      "status": "unresolved",
+      "created_at": "2025-10-20T14:04:12.653Z",
+      "updated_at": "2025-10-20T14:19:15.557Z",
+      "timeout_at": "2025-10-20T14:19:12.653Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_1990b45d98",
+      "customer_id": "cust_demo",
+      "question": "hi this is Adam how are you doing",
+      "status": "unresolved",
+      "created_at": "2025-10-20T14:08:16.845Z",
+      "updated_at": "2025-10-20T14:23:41.971Z",
+      "timeout_at": "2025-10-20T14:23:16.845Z",
+      "source_call_id": null,
+      "supervisor_answer_id": null,
+      "tags": []
+    },
+    {
+      "id": "hr_8277eb07ca",
+      "conversation_id": "conv_demo",
+      "question": "Hi",
+      "status": "unresolved",
+      "created_at": "2025-10-20T14:38:27.174Z",
+      "updated_at": "2025-10-20T14:38:27.174Z",
+      "timeout_at": "2025-10-20T14:53:27.174Z",
+      "tags": []
+    },
+    {
+      "id": "hr_1a4e5daf06",
+      "conversation_id": "conv_demo",
+      "question": "hi",
+      "status": "unresolved",
+      "created_at": "2025-10-20T14:39:14.170Z",
+      "updated_at": "2025-10-20T14:39:14.170Z",
+      "timeout_at": "2025-10-20T14:54:14.170Z",
+      "tags": []
+    },
+    {
+      "id": "hr_781e0d529f",
+      "conversation_id": "conv_demo",
+      "question": "I just wanted to check when are you open till",
+      "status": "unresolved",
+      "created_at": "2025-10-20T14:48:37.722Z",
+      "updated_at": "2025-10-20T14:48:37.722Z",
+      "timeout_at": "2025-10-20T15:03:37.722Z",
+      "tags": []
+    },
+    {
+      "id": "hr_0f79509bc4",
+      "conversation_id": "conv_demo",
+      "question": "I just wanted to check in on timings",
+      "status": "unresolved",
+      "created_at": "2025-10-20T14:49:51.431Z",
+      "updated_at": "2025-10-20T14:49:51.431Z",
+      "timeout_at": "2025-10-20T15:04:51.431Z",
+      "tags": []
+    },
+    {
+      "id": "hr_f88c8918b3",
+      "conversation_id": "conv_0de7c39a13",
+      "question": "what is the name by the way",
+      "status": "unresolved",
+      "created_at": "2025-10-20T18:25:10.793Z",
+      "updated_at": "2025-10-20T18:25:10.793Z",
+      "timeout_at": "2025-10-20T18:40:10.793Z",
+      "tags": []
+    },
+    {
+      "id": "hr_b801b4393d",
+      "conversation_id": "conv_2744e05116",
+      "question": "I want to check on your timings",
+      "status": "pending",
+      "created_at": "2025-10-20T20:02:19.967Z",
+      "updated_at": "2025-10-20T20:02:19.967Z",
+      "timeout_at": "2025-10-20T20:17:19.967Z",
+      "tags": []
+    },
+    {
+      "id": "hr_02beb7847d",
+      "conversation_id": "conv_a40919e2d5",
+      "question": "I wanted to check on your timings",
+      "status": "resolved",
+      "created_at": "2025-10-20T20:12:43.188Z",
+      "updated_at": "2025-10-20T20:13:22.480Z",
+      "timeout_at": "2025-10-20T20:27:43.188Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_1b62061b22",
+      "conversation_id": "conv_ddb6186094",
+      "question": "I I just I just wanted I  just wanted to I just  wanted to I just  wanted to confirm I just wanted  to confirm I just wanted  to confirm your I just wanted to  confirm your I just wanted to confirm  your timing I just wanted to confirm  your timings I just wanted to confirm your  timings I just wanted to confirm your timings",
+      "status": "resolved",
+      "created_at": "2025-10-20T20:20:35.690Z",
+      "updated_at": "2025-10-20T20:21:03.935Z",
+      "timeout_at": "2025-10-20T20:35:35.690Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_150e41ac77",
+      "conversation_id": "conv_4e93f0ef0e",
+      "question": "how how are you how are you how are you how are you",
+      "status": "pending",
+      "created_at": "2025-10-20T20:24:14.822Z",
+      "updated_at": "2025-10-20T20:24:14.822Z",
+      "timeout_at": "2025-10-20T20:39:14.822Z",
+      "tags": []
+    },
+    {
+      "id": "hr_81b4469a67",
+      "conversation_id": "conv_4e93f0ef0e",
+      "question": "all all god all god in all god in all god in one all god in one frame all god in one frame all god in one frame all god in one frame all god in one frame",
+      "status": "pending",
+      "created_at": "2025-10-20T20:24:27.532Z",
+      "updated_at": "2025-10-20T20:24:27.532Z",
+      "timeout_at": "2025-10-20T20:39:27.532Z",
+      "tags": []
+    },
+    {
+      "id": "hr_a57c283a8d",
+      "conversation_id": "conv_49a1dacacd",
+      "question": "I wanted to check in on your timings",
+      "status": "resolved",
+      "created_at": "2025-10-20T20:31:22.356Z",
+      "updated_at": "2025-10-20T20:32:01.228Z",
+      "timeout_at": "2025-10-20T20:46:22.356Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_8675bc00ae",
+      "conversation_id": "conv_49a1dacacd",
+      "question": "also where are you stated at",
+      "status": "resolved",
+      "created_at": "2025-10-20T20:32:14.027Z",
+      "updated_at": "2025-10-20T20:32:59.177Z",
+      "timeout_at": "2025-10-20T20:47:14.027Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_68a474a93d",
+      "conversation_id": "conv_49a1dacacd",
+      "question": "I wanted to check in on the pricing",
+      "status": "pending",
+      "created_at": "2025-10-20T20:33:29.170Z",
+      "updated_at": "2025-10-20T20:33:29.170Z",
+      "timeout_at": "2025-10-20T20:48:29.170Z",
+      "tags": []
+    },
+    {
+      "id": "hr_d81bb99e16",
+      "conversation_id": "conv_b95bcbefd4",
+      "question": "I want to know timings when you'll be open",
+      "status": "resolved",
+      "created_at": "2025-10-21T05:33:48.745Z",
+      "updated_at": "2025-10-21T05:34:20.654Z",
+      "timeout_at": "2025-10-21T05:48:48.745Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_edd5370080",
+      "conversation_id": "conv_92e70be3a6",
+      "question": "Will you be opening tomorrow ?",
+      "status": "resolved",
+      "created_at": "2025-10-21T09:36:06.255Z",
+      "updated_at": "2025-10-21T09:36:56.587Z",
+      "timeout_at": "2025-10-21T09:51:06.255Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_219bd1a69e",
+      "conversation_id": "conv_e932360f90",
+      "question": "Can you please help me tell me about your timings on weekdays?",
+      "status": "resolved",
+      "created_at": "2025-10-22T14:35:52.515Z",
+      "updated_at": "2025-10-22T14:36:54.507Z",
+      "timeout_at": "2025-10-22T14:50:52.515Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_5dec9a4e5f",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "question": "I wanted to check the timings for weekdays",
+      "status": "resolved",
+      "created_at": "2025-10-22T14:53:35.740Z",
+      "updated_at": "2025-10-22T14:54:14.751Z",
+      "timeout_at": "2025-10-22T15:08:35.740Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_325643baeb",
+      "conversation_id": "conv_44aa2fbbb1",
+      "question": "I wanted to check it on timings",
+      "status": "resolved",
+      "created_at": "2025-10-22T15:01:53.679Z",
+      "updated_at": "2025-10-22T15:02:26.293Z",
+      "timeout_at": "2025-10-22T15:16:53.679Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_540fefb947",
+      "conversation_id": "conv_4e7fd732dd",
+      "question": "I wanted to check it on timings",
+      "status": "resolved",
+      "created_at": "2025-10-22T15:04:24.173Z",
+      "updated_at": "2025-10-22T15:04:44.799Z",
+      "timeout_at": "2025-10-22T15:19:24.173Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    },
+    {
+      "id": "hr_edcdf348dd",
+      "conversation_id": "conv_9f2ba334a0",
+      "question": "I wanted to check on timings",
+      "status": "resolved",
+      "created_at": "2025-10-22T15:17:46.069Z",
+      "updated_at": "2025-10-22T15:18:10.060Z",
+      "timeout_at": "2025-10-22T15:32:46.069Z",
+      "tags": [],
+      "supervisor_id": "supervisor_demo"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_f349b93549",
+      "help_request_id": "hr_09665ef5c0",
+      "role": "agent",
+      "content": "Escalated: Tomorrow Salon will be opening ?",
+      "created_at": "2025-10-17T12:28:47.148Z"
+    },
+    {
+      "id": "msg_c2a3a51078",
+      "help_request_id": "hr_09665ef5c0",
+      "role": "supervisor",
+      "content": "yes",
+      "created_at": "2025-10-17T12:37:10.342Z"
+    },
+    {
+      "id": "msg_9577b00b98",
+      "help_request_id": "hr_55ae801fbc",
+      "role": "agent",
+      "content": "Escalated: Tomorrow  Salon is closed",
+      "created_at": "2025-10-17T12:38:28.151Z"
+    },
+    {
+      "id": "msg_b8087b5028",
+      "help_request_id": "hr_55ae801fbc",
+      "role": "supervisor",
+      "content": "Yes",
+      "created_at": "2025-10-17T12:38:41.474Z"
+    },
+    {
+      "id": "msg_d3f6aeb453",
+      "help_request_id": "hr_0a5571d52b",
+      "role": "agent",
+      "content": "Escalated: and what about day after tomorrow",
+      "created_at": "2025-10-17T13:24:11.253Z"
+    },
+    {
+      "id": "msg_158ebd285a",
+      "help_request_id": "hr_0a5571d52b",
+      "role": "supervisor",
+      "content": "Yes It will be open",
+      "created_at": "2025-10-17T13:24:36.438Z"
+    },
+    {
+      "id": "msg_1bd022061a",
+      "help_request_id": "hr_921a894000",
+      "role": "agent",
+      "content": "Escalated: Yesterday salon was opened ?",
+      "created_at": "2025-10-17T13:33:34.789Z"
+    },
+    {
+      "id": "msg_f73c42ac89",
+      "help_request_id": "hr_921a894000",
+      "role": "supervisor",
+      "content": "Yes",
+      "created_at": "2025-10-17T13:34:02.424Z"
+    },
+    {
+      "id": "msg_32048f4fe6",
+      "help_request_id": "hr_da8ab94dec",
+      "role": "agent",
+      "content": "Escalated: speak Mujhe bolna",
+      "created_at": "2025-10-17T13:37:42.187Z"
+    },
+    {
+      "id": "msg_f7f2d903af",
+      "help_request_id": "hr_3e7428ec87",
+      "role": "agent",
+      "content": "Escalated: why is the salon open now",
+      "created_at": "2025-10-17T13:37:51.965Z"
+    },
+    {
+      "id": "msg_f479bd8048",
+      "help_request_id": "hr_2c8fb123a6",
+      "role": "agent",
+      "content": "Escalated: hello hi",
+      "created_at": "2025-10-17T13:37:58.665Z"
+    },
+    {
+      "id": "msg_0e7df3c092",
+      "help_request_id": "hr_7a04efcf1e",
+      "role": "agent",
+      "content": "Escalated: hi is the salon open now",
+      "created_at": "2025-10-17T13:38:15.039Z"
+    },
+    {
+      "id": "msg_a1a72d7b30",
+      "help_request_id": "hr_cc23d8b14f",
+      "role": "agent",
+      "content": "Escalated: what is the salons location",
+      "created_at": "2025-10-17T13:38:47.602Z"
+    },
+    {
+      "id": "msg_c483afc0bb",
+      "help_request_id": "hr_409c320b93",
+      "role": "agent",
+      "content": "Escalated: where are you at",
+      "created_at": "2025-10-17T14:08:27.436Z"
+    },
+    {
+      "id": "msg_7c4a53bb5d",
+      "help_request_id": "hr_40d3f562b1",
+      "role": "agent",
+      "content": "Escalated: what are you working arts",
+      "created_at": "2025-10-17T14:17:15.009Z"
+    },
+    {
+      "id": "msg_3392de7758",
+      "help_request_id": "hr_41a9d4b61a",
+      "role": "agent",
+      "content": "Escalated: what are your arts",
+      "created_at": "2025-10-17T14:21:15.541Z"
+    },
+    {
+      "id": "msg_9602941722",
+      "help_request_id": "hr_666a86c97b",
+      "role": "agent",
+      "content": "Escalated: keratin treatment",
+      "created_at": "2025-10-17T15:14:23.449Z"
+    },
+    {
+      "id": "msg_189956d1ab",
+      "help_request_id": "hr_41afb12e5b",
+      "role": "agent",
+      "content": "Escalated: What is keratin treatment",
+      "created_at": "2025-10-17T15:15:19.565Z"
+    },
+    {
+      "id": "msg_19afd49f3c",
+      "help_request_id": "hr_6d087cd249",
+      "role": "agent",
+      "content": "Escalated: what's your location",
+      "created_at": "2025-10-17T15:15:39.467Z"
+    },
+    {
+      "id": "msg_b01fdbcd18",
+      "help_request_id": "hr_3ac536c7cb",
+      "role": "agent",
+      "content": "Escalated: currently where you are located",
+      "created_at": "2025-10-17T15:15:50.394Z"
+    },
+    {
+      "id": "msg_ad87d5d856",
+      "help_request_id": "hr_859d2b1eea",
+      "role": "agent",
+      "content": "Escalated: when will you be open",
+      "created_at": "2025-10-17T15:17:22.691Z"
+    },
+    {
+      "id": "msg_d4ea2ff2a7",
+      "help_request_id": "hr_2782470c08",
+      "role": "agent",
+      "content": "Escalated: when you",
+      "created_at": "2025-10-17T15:22:58.592Z"
+    },
+    {
+      "id": "msg_e174f8b190",
+      "help_request_id": "hr_7a686c04f4",
+      "role": "agent",
+      "content": "Escalated: who is the specialist who will be styling my haircut",
+      "created_at": "2025-10-17T15:23:45.598Z"
+    },
+    {
+      "id": "msg_a0350d9e66",
+      "help_request_id": "hr_a4d6af2690",
+      "role": "agent",
+      "content": "Escalated: and get back to you",
+      "created_at": "2025-10-17T15:23:49.325Z"
+    },
+    {
+      "id": "msg_8216e5a96c",
+      "help_request_id": "hr_7a686c04f4",
+      "role": "supervisor",
+      "content": "John and Habib himself would style your hair.",
+      "created_at": "2025-10-17T15:24:26.145Z"
+    },
+    {
+      "id": "msg_5af312764a",
+      "help_request_id": "hr_d63e22724c",
+      "role": "agent",
+      "content": "Escalated: I need a female hair stylist",
+      "created_at": "2025-10-17T15:30:42.729Z"
+    },
+    {
+      "id": "msg_3d09812d3c",
+      "help_request_id": "hr_ae0c76e634",
+      "role": "agent",
+      "content": "Escalated: I need a female hair stylist",
+      "created_at": "2025-10-17T15:33:24.504Z"
+    },
+    {
+      "id": "msg_3aa7750265",
+      "help_request_id": "hr_9536b3a57c",
+      "role": "agent",
+      "content": "Escalated: hey there hello",
+      "created_at": "2025-10-17T15:34:22.946Z"
+    },
+    {
+      "id": "msg_b7b1197e82",
+      "help_request_id": "hr_9536b3a57c",
+      "role": "supervisor",
+      "content": "Heyy, I'm Adam!",
+      "created_at": "2025-10-17T15:34:52.782Z"
+    },
+    {
+      "id": "msg_b84f9ea226",
+      "help_request_id": "hr_d5e27985fe",
+      "role": "agent",
+      "content": "Escalated: I want a female hair stylist",
+      "created_at": "2025-10-17T15:38:16.730Z"
+    },
+    {
+      "id": "msg_07d5772974",
+      "help_request_id": "hr_9ee89d3695",
+      "role": "agent",
+      "content": "Escalated: I want a female hair stylist",
+      "created_at": "2025-10-17T15:39:52.589Z"
+    },
+    {
+      "id": "msg_c6214b382c",
+      "help_request_id": "hr_ada1c5825b",
+      "role": "agent",
+      "content": "Escalated: I need a female hair stylist",
+      "created_at": "2025-10-17T15:51:34.673Z"
+    },
+    {
+      "id": "msg_2146fe65c4",
+      "help_request_id": "hr_6fe0e88948",
+      "role": "agent",
+      "content": "Escalated: I need a female hair stylist",
+      "created_at": "2025-10-17T15:52:15.832Z"
+    },
+    {
+      "id": "msg_0d9c997155",
+      "help_request_id": "hr_ccdc512e79",
+      "role": "agent",
+      "content": "Escalated: I need a female hair stylist",
+      "created_at": "2025-10-17T15:52:40.062Z"
+    },
+    {
+      "id": "msg_b76b7abc4f",
+      "help_request_id": "hr_6b227933f5",
+      "role": "agent",
+      "content": "Escalated: I need a female hair stylist",
+      "created_at": "2025-10-17T15:53:44.765Z"
+    },
+    {
+      "id": "msg_71b0494917",
+      "help_request_id": "hr_f51f9897b9",
+      "role": "agent",
+      "content": "Escalated: I need a female hair stylist",
+      "created_at": "2025-10-17T16:13:28.682Z"
+    },
+    {
+      "id": "msg_62bccdefb4",
+      "help_request_id": "hr_f51f9897b9",
+      "role": "supervisor",
+      "content": "Kylie is our top notch female hair stylist, and she'll assist you.",
+      "created_at": "2025-10-17T16:14:57.905Z"
+    },
+    {
+      "id": "msg_2fb48f8f7d",
+      "help_request_id": "hr_223c5fb5bc",
+      "role": "agent",
+      "content": "Escalated: hi this is",
+      "created_at": "2025-10-20T14:04:12.653Z"
+    },
+    {
+      "id": "msg_bedc86f919",
+      "help_request_id": "hr_1990b45d98",
+      "role": "agent",
+      "content": "Escalated: hi this is Adam how are you doing",
+      "created_at": "2025-10-20T14:08:16.845Z"
+    },
+    {
+      "id": "msg_c79a3e414f",
+      "conversation_id": "conv_demo",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-20T14:38:27.174Z",
+      "help_request_id": "hr_8277eb07ca"
+    },
+    {
+      "id": "msg_4fa1865802",
+      "conversation_id": "conv_demo",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-20T14:39:14.170Z",
+      "help_request_id": "hr_1a4e5daf06"
+    },
+    {
+      "id": "msg_0aee54181f",
+      "conversation_id": "conv_demo",
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?",
+      "created_at": "2025-10-20T14:48:29.048Z"
+    },
+    {
+      "id": "msg_b8ed924c4b",
+      "conversation_id": "conv_demo",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-20T14:48:37.722Z",
+      "help_request_id": "hr_781e0d529f"
+    },
+    {
+      "id": "msg_b0fad526e8",
+      "conversation_id": "conv_demo",
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?",
+      "created_at": "2025-10-20T14:49:41.681Z"
+    },
+    {
+      "id": "msg_99e92b63c6",
+      "conversation_id": "conv_demo",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-20T14:49:51.431Z",
+      "help_request_id": "hr_0f79509bc4"
+    },
+    {
+      "id": "msg_ca4404e9ac",
+      "conversation_id": "conv_demo",
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?",
+      "created_at": "2025-10-20T18:04:37.242Z"
+    },
+    {
+      "id": "msg_94eaa6fec9",
+      "conversation_id": "conv_0de7c39a13",
+      "role": "user",
+      "content": "hello this is Utkarsh",
+      "created_at": "2025-10-20T18:24:58.244Z"
+    },
+    {
+      "id": "msg_d92d5fb9d0",
+      "conversation_id": "conv_0de7c39a13",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T18:24:58.251Z"
+    },
+    {
+      "id": "msg_5557dcf046",
+      "conversation_id": "conv_0de7c39a13",
+      "role": "user",
+      "content": "what is the name by the way",
+      "created_at": "2025-10-20T18:25:10.793Z"
+    },
+    {
+      "id": "msg_24ad81d260",
+      "conversation_id": "conv_0de7c39a13",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-20T18:25:10.793Z",
+      "help_request_id": "hr_f88c8918b3"
+    },
+    {
+      "id": "msg_3c216e22fe",
+      "conversation_id": "conv_0de7c39a13",
+      "role": "user",
+      "content": "when are you timings RO",
+      "created_at": "2025-10-20T18:26:44.320Z"
+    },
+    {
+      "id": "msg_ec869e6d2e",
+      "conversation_id": "conv_0de7c39a13",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T18:26:44.323Z"
+    },
+    {
+      "id": "msg_5ccc460a64",
+      "conversation_id": "conv_65086a08f0",
+      "role": "user",
+      "content": "hi I just want to know when are you open",
+      "created_at": "2025-10-20T18:29:20.751Z"
+    },
+    {
+      "id": "msg_0f9f9bc084",
+      "conversation_id": "conv_65086a08f0",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T18:29:20.755Z"
+    },
+    {
+      "id": "msg_407232d29b",
+      "conversation_id": "conv_65086a08f0",
+      "role": "user",
+      "content": "what are the timings",
+      "created_at": "2025-10-20T18:29:30.459Z"
+    },
+    {
+      "id": "msg_0565be0c05",
+      "conversation_id": "conv_65086a08f0",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T18:29:30.462Z"
+    },
+    {
+      "id": "msg_c019479624",
+      "conversation_id": "conv_1f87c92f02",
+      "role": "user",
+      "content": "hi I just wanted to know if you are open now",
+      "created_at": "2025-10-20T18:55:57.448Z"
+    },
+    {
+      "id": "msg_df1da4e531",
+      "conversation_id": "conv_1f87c92f02",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T18:55:57.452Z"
+    },
+    {
+      "id": "msg_00c0ffaca3",
+      "conversation_id": "conv_cff50c7793",
+      "role": "user",
+      "content": "hi hi how are you doing",
+      "created_at": "2025-10-20T18:56:56.378Z"
+    },
+    {
+      "id": "msg_d0198c5e5c",
+      "conversation_id": "conv_cff50c7793",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T18:56:56.382Z"
+    },
+    {
+      "id": "msg_30f9fa754a",
+      "conversation_id": "conv_b11164e90a",
+      "role": "user",
+      "content": "hey there I am Utkarsh",
+      "created_at": "2025-10-20T18:57:18.909Z"
+    },
+    {
+      "id": "msg_9a360c7ddf",
+      "conversation_id": "conv_b11164e90a",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T18:57:18.914Z"
+    },
+    {
+      "id": "msg_2282282222",
+      "conversation_id": "conv_ae9bf1847f",
+      "role": "user",
+      "content": "here",
+      "created_at": "2025-10-20T19:01:35.800Z"
+    },
+    {
+      "id": "msg_4a1358fcb6",
+      "conversation_id": "conv_ae9bf1847f",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:01:35.805Z"
+    },
+    {
+      "id": "msg_f8d6797f00",
+      "conversation_id": "conv_d31f5346db",
+      "role": "user",
+      "content": "hello there this is Utkarsh Singh",
+      "created_at": "2025-10-20T19:02:24.218Z"
+    },
+    {
+      "id": "msg_3314991eab",
+      "conversation_id": "conv_d31f5346db",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:02:24.223Z"
+    },
+    {
+      "id": "msg_da6092e95d",
+      "conversation_id": "conv_a42a9f4639",
+      "role": "user",
+      "content": "hi I just wanted to check",
+      "created_at": "2025-10-20T19:04:06.568Z"
+    },
+    {
+      "id": "msg_ed9d0e8ae5",
+      "conversation_id": "conv_a42a9f4639",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:04:06.573Z"
+    },
+    {
+      "id": "msg_17563239a1",
+      "conversation_id": "conv_b52af013d7",
+      "role": "user",
+      "content": "hi I just wanted to check",
+      "created_at": "2025-10-20T19:04:26.392Z"
+    },
+    {
+      "id": "msg_5188260207",
+      "conversation_id": "conv_b52af013d7",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:04:26.397Z"
+    },
+    {
+      "id": "msg_310006a94f",
+      "conversation_id": "conv_acb1724259",
+      "role": "user",
+      "content": "hey this is utkar",
+      "created_at": "2025-10-20T19:06:30.619Z"
+    },
+    {
+      "id": "msg_da16da5e5c",
+      "conversation_id": "conv_acb1724259",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:06:30.624Z"
+    },
+    {
+      "id": "msg_29923f4550",
+      "conversation_id": "conv_f6f3eff7c5",
+      "role": "user",
+      "content": "hello hi",
+      "created_at": "2025-10-20T19:10:28.637Z"
+    },
+    {
+      "id": "msg_cfee5206af",
+      "conversation_id": "conv_f6f3eff7c5",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:10:28.642Z"
+    },
+    {
+      "id": "msg_69963fd45d",
+      "conversation_id": "conv_877062c4e4",
+      "role": "user",
+      "content": "hi this is Utkarsh",
+      "created_at": "2025-10-20T19:11:56.953Z"
+    },
+    {
+      "id": "msg_b57f835d45",
+      "conversation_id": "conv_877062c4e4",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:11:56.961Z"
+    },
+    {
+      "id": "msg_e15e308616",
+      "conversation_id": "conv_df4850d986",
+      "role": "user",
+      "content": "hay",
+      "created_at": "2025-10-20T19:16:07.976Z"
+    },
+    {
+      "id": "msg_1d3398a168",
+      "conversation_id": "conv_df4850d986",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:16:08.021Z"
+    },
+    {
+      "id": "msg_91aa392bb7",
+      "conversation_id": "conv_9cb13360cb",
+      "role": "user",
+      "content": "hay hello",
+      "created_at": "2025-10-20T19:19:31.715Z"
+    },
+    {
+      "id": "msg_135097a4a9",
+      "conversation_id": "conv_9cb13360cb",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:19:31.758Z"
+    },
+    {
+      "id": "msg_731b542d64",
+      "conversation_id": "conv_1abf346c60",
+      "role": "user",
+      "content": "hello there hi",
+      "created_at": "2025-10-20T19:25:02.411Z"
+    },
+    {
+      "id": "msg_49a56a8334",
+      "conversation_id": "conv_1abf346c60",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:25:02.457Z"
+    },
+    {
+      "id": "msg_b428305cef",
+      "conversation_id": "conv_235eb7ba79",
+      "role": "user",
+      "content": "hi there",
+      "created_at": "2025-10-20T19:32:45.424Z"
+    },
+    {
+      "id": "msg_c7058346e3",
+      "conversation_id": "conv_235eb7ba79",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:32:45.472Z"
+    },
+    {
+      "id": "msg_1c2b21defc",
+      "conversation_id": "conv_7be135ef7f",
+      "role": "user",
+      "content": "how are you",
+      "created_at": "2025-10-20T19:36:44.236Z"
+    },
+    {
+      "id": "msg_e8cd616174",
+      "conversation_id": "conv_7be135ef7f",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:36:44.284Z"
+    },
+    {
+      "id": "msg_90812a4c3b",
+      "conversation_id": "conv_08f3c9513b",
+      "role": "user",
+      "content": "hi there",
+      "created_at": "2025-10-20T19:37:59.121Z"
+    },
+    {
+      "id": "msg_f3715d525d",
+      "conversation_id": "conv_08f3c9513b",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:37:59.203Z"
+    },
+    {
+      "id": "msg_c278241c1c",
+      "conversation_id": "conv_74f29c18f8",
+      "role": "user",
+      "content": "hello hi",
+      "created_at": "2025-10-20T19:42:08.653Z"
+    },
+    {
+      "id": "msg_ff6e6c9e93",
+      "conversation_id": "conv_74f29c18f8",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-20T19:42:08.745Z"
+    },
+    {
+      "id": "msg_fd12690aed",
+      "conversation_id": "conv_77b9ad848c",
+      "role": "user",
+      "content": "hi",
+      "created_at": "2025-10-20T20:01:17.294Z"
+    },
+    {
+      "id": "msg_6f7362b59c",
+      "conversation_id": "conv_77b9ad848c",
+      "role": "assistant",
+      "content": "Hello there! Welcome. How can I help you today?",
+      "created_at": "2025-10-20T20:01:18.761Z"
+    },
+    {
+      "id": "msg_92446f65bd",
+      "conversation_id": "conv_2744e05116",
+      "role": "user",
+      "content": "hi I am Utkarsh who are you",
+      "created_at": "2025-10-20T20:01:53.963Z"
+    },
+    {
+      "id": "msg_bc3c0752d2",
+      "conversation_id": "conv_2744e05116",
+      "role": "assistant",
+      "content": "Hello Utkarsh, it's a pleasure to meet you! I'm Assistant Adam, your friendly receptionist here. How can I help you today?",
+      "created_at": "2025-10-20T20:01:55.866Z"
+    },
+    {
+      "id": "msg_e5259b1695",
+      "conversation_id": "conv_2744e05116",
+      "role": "user",
+      "content": "I want to check on your timings",
+      "created_at": "2025-10-20T20:02:19.967Z"
+    },
+    {
+      "id": "msg_9c417582e2",
+      "conversation_id": "conv_2744e05116",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-20T20:02:19.967Z",
+      "help_request_id": "hr_b801b4393d"
+    },
+    {
+      "id": "msg_cdaf054037",
+      "conversation_id": "conv_a40919e2d5",
+      "role": "user",
+      "content": "hello there",
+      "created_at": "2025-10-20T20:12:30.785Z"
+    },
+    {
+      "id": "msg_6f43bac6a3",
+      "conversation_id": "conv_a40919e2d5",
+      "role": "assistant",
+      "content": "Hello there! Assistant Adam here.",
+      "created_at": "2025-10-20T20:12:35.915Z"
+    },
+    {
+      "id": "msg_38140a4ab1",
+      "conversation_id": "conv_a40919e2d5",
+      "role": "user",
+      "content": "I wanted to check on your timings",
+      "created_at": "2025-10-20T20:12:43.188Z"
+    },
+    {
+      "id": "msg_a71e28f073",
+      "conversation_id": "conv_a40919e2d5",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-20T20:12:43.195Z",
+      "help_request_id": "hr_02beb7847d"
+    },
+    {
+      "id": "msg_1736dbce05",
+      "conversation_id": "conv_a40919e2d5",
+      "role": "supervisor",
+      "content": "We are open on weekdays, from 11AM - 8PM.",
+      "created_at": "2025-10-20T20:13:22.485Z",
+      "help_request_id": "hr_02beb7847d"
+    },
+    {
+      "id": "msg_e6bdc9e01d",
+      "conversation_id": "conv_a40919e2d5",
+      "role": "assistant",
+      "content": "We are open on weekdays, from 11AM - 8PM.",
+      "created_at": "2025-10-20T20:13:24.243Z",
+      "help_request_id": "hr_02beb7847d"
+    },
+    {
+      "id": "msg_966602355d",
+      "conversation_id": "conv_ddb6186094",
+      "role": "user",
+      "content": "hi hi  how hi  how are you hi how  are you hi how are you hi how are you",
+      "created_at": "2025-10-20T20:20:22.678Z"
+    },
+    {
+      "id": "msg_5f82f171a2",
+      "conversation_id": "conv_ddb6186094",
+      "role": "assistant",
+      "content": "Hi there! I'm doing great, thank you for asking. How can I help you today?",
+      "created_at": "2025-10-20T20:20:25.036Z"
+    },
+    {
+      "id": "msg_47f9a2bb71",
+      "conversation_id": "conv_ddb6186094",
+      "role": "user",
+      "content": "I I just I just wanted I  just wanted to I just  wanted to I just  wanted to confirm I just wanted  to confirm I just wanted  to confirm your I just wanted to  confirm your I just wanted to confirm  your timing I just wanted to confirm  your timings I just wanted to confirm your  timings I just wanted to confirm your timings",
+      "created_at": "2025-10-20T20:20:35.690Z"
+    },
+    {
+      "id": "msg_95964b3c78",
+      "conversation_id": "conv_ddb6186094",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-20T20:20:35.704Z",
+      "help_request_id": "hr_1b62061b22"
+    },
+    {
+      "id": "msg_6179c84276",
+      "conversation_id": "conv_ddb6186094",
+      "role": "supervisor",
+      "content": "We are open from 11Am-8PM on weekdays.",
+      "created_at": "2025-10-20T20:21:03.937Z",
+      "help_request_id": "hr_1b62061b22"
+    },
+    {
+      "id": "msg_e0a5af835f",
+      "conversation_id": "conv_ddb6186094",
+      "role": "assistant",
+      "content": "We are open from 11Am-8PM on weekdays.",
+      "created_at": "2025-10-20T20:21:05.346Z",
+      "help_request_id": "hr_1b62061b22"
+    },
+    {
+      "id": "msg_f245c4a78b",
+      "conversation_id": "conv_4e93f0ef0e",
+      "role": "user",
+      "content": "how how are you how are you how are you how are you",
+      "created_at": "2025-10-20T20:24:14.822Z"
+    },
+    {
+      "id": "msg_d50df0ae53",
+      "conversation_id": "conv_4e93f0ef0e",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-20T20:24:14.831Z",
+      "help_request_id": "hr_150e41ac77"
+    },
+    {
+      "id": "msg_44b903ce14",
+      "conversation_id": "conv_4e93f0ef0e",
+      "role": "user",
+      "content": "all all god all god in all god in all god in one all god in one frame all god in one frame all god in one frame all god in one frame all god in one frame",
+      "created_at": "2025-10-20T20:24:27.532Z"
+    },
+    {
+      "id": "msg_f58ddd7135",
+      "conversation_id": "conv_4e93f0ef0e",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-20T20:24:27.921Z",
+      "help_request_id": "hr_81b4469a67"
+    },
+    {
+      "id": "msg_8ce500f113",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "user",
+      "content": "hi hello",
+      "created_at": "2025-10-20T20:31:11.586Z"
+    },
+    {
+      "id": "msg_184fd1ad2f",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "assistant",
+      "content": "Hello there! Welcome! How can I help you today?",
+      "created_at": "2025-10-20T20:31:13.122Z"
+    },
+    {
+      "id": "msg_1d6bfa1a24",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "user",
+      "content": "I wanted to check in on your timings",
+      "created_at": "2025-10-20T20:31:22.356Z"
+    },
+    {
+      "id": "msg_54e6c71f82",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-20T20:31:22.363Z",
+      "help_request_id": "hr_a57c283a8d"
+    },
+    {
+      "id": "msg_2f0b9c8b52",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "supervisor",
+      "content": "We are open from 11AM-8PM on weekdays.",
+      "created_at": "2025-10-20T20:32:01.230Z",
+      "help_request_id": "hr_a57c283a8d"
+    },
+    {
+      "id": "msg_64c2fd5091",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "assistant",
+      "content": "We are open from 11AM-8PM on weekdays.",
+      "created_at": "2025-10-20T20:32:02.720Z",
+      "help_request_id": "hr_a57c283a8d"
+    },
+    {
+      "id": "msg_5680f9fb22",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "user",
+      "content": "also where are you stated at",
+      "created_at": "2025-10-20T20:32:14.027Z"
+    },
+    {
+      "id": "msg_e6caedbed4",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-20T20:32:14.036Z",
+      "help_request_id": "hr_8675bc00ae"
+    },
+    {
+      "id": "msg_51255add36",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "supervisor",
+      "content": "123, 5th Avenue, Birmingham, Bihar",
+      "created_at": "2025-10-20T20:32:59.180Z",
+      "help_request_id": "hr_8675bc00ae"
+    },
+    {
+      "id": "msg_7141f516f2",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "assistant",
+      "content": "123, 5th Avenue, Birmingham, Bihar",
+      "created_at": "2025-10-20T20:33:00.713Z",
+      "help_request_id": "hr_8675bc00ae"
+    },
+    {
+      "id": "msg_386921efa3",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "user",
+      "content": "I wanted to check in on the pricing",
+      "created_at": "2025-10-20T20:33:29.170Z"
+    },
+    {
+      "id": "msg_5a9ee23f51",
+      "conversation_id": "conv_49a1dacacd",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-20T20:33:29.179Z",
+      "help_request_id": "hr_68a474a93d"
+    },
+    {
+      "id": "msg_1aace4dfdf",
+      "conversation_id": "conv_3b0523c374",
+      "role": "user",
+      "content": "Heyy there!",
+      "created_at": "2025-10-20T20:35:05.587Z"
+    },
+    {
+      "id": "msg_13d08b8892",
+      "conversation_id": "conv_3b0523c374",
+      "role": "assistant",
+      "content": "Hello there! Welcome. How may I help you today?",
+      "created_at": "2025-10-20T20:35:09.048Z"
+    },
+    {
+      "id": "msg_37e2e94e19",
+      "conversation_id": "conv_3b0523c374",
+      "role": "user",
+      "content": "Your name?",
+      "created_at": "2025-10-20T20:35:29.460Z"
+    },
+    {
+      "id": "msg_673c20f4e1",
+      "conversation_id": "conv_3b0523c374",
+      "role": "assistant",
+      "content": "Hello there! I'm Adam, your assistant today. How can I help you?",
+      "created_at": "2025-10-20T20:35:31.165Z"
+    },
+    {
+      "id": "msg_03d1d9f4f7",
+      "conversation_id": "conv_b95bcbefd4",
+      "role": "user",
+      "content": "Hi, I'm Utkarsh Singh!",
+      "created_at": "2025-10-21T05:33:18.046Z"
+    },
+    {
+      "id": "msg_06ab4af244",
+      "conversation_id": "conv_b95bcbefd4",
+      "role": "assistant",
+      "content": "Hi Utkarsh Singh! A pleasure to meet you. How may I assist you today?",
+      "created_at": "2025-10-21T05:33:20.517Z"
+    },
+    {
+      "id": "msg_3b5107de20",
+      "conversation_id": "conv_b95bcbefd4",
+      "role": "user",
+      "content": "I want to know timings when you'll be open",
+      "created_at": "2025-10-21T05:33:48.745Z"
+    },
+    {
+      "id": "msg_b8ae918b99",
+      "conversation_id": "conv_b95bcbefd4",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-21T05:33:48.750Z",
+      "help_request_id": "hr_d81bb99e16"
+    },
+    {
+      "id": "msg_1ee966e5e6",
+      "conversation_id": "conv_b95bcbefd4",
+      "role": "supervisor",
+      "content": "11AM-*PM on weekdays.",
+      "created_at": "2025-10-21T05:34:20.655Z",
+      "help_request_id": "hr_d81bb99e16"
+    },
+    {
+      "id": "msg_1953925a27",
+      "conversation_id": "conv_b95bcbefd4",
+      "role": "assistant",
+      "content": "11AM-*PM on weekdays.",
+      "created_at": "2025-10-21T05:34:22.126Z",
+      "help_request_id": "hr_d81bb99e16"
+    },
+    {
+      "id": "msg_a764287b00",
+      "conversation_id": "conv_92e70be3a6",
+      "role": "user",
+      "content": "Hi",
+      "created_at": "2025-10-21T09:35:10.341Z"
+    },
+    {
+      "id": "msg_c635f3910d",
+      "conversation_id": "conv_92e70be3a6",
+      "role": "assistant",
+      "content": "Hi there! Welcome. How may I assist you today?",
+      "created_at": "2025-10-21T09:35:12.714Z"
+    },
+    {
+      "id": "msg_0c9c66967b",
+      "conversation_id": "conv_92e70be3a6",
+      "role": "user",
+      "content": "What's your name ?",
+      "created_at": "2025-10-21T09:35:34.316Z"
+    },
+    {
+      "id": "msg_3678367364",
+      "conversation_id": "conv_92e70be3a6",
+      "role": "assistant",
+      "content": "Hello there! My name is Adam, Assistant Adam. It's a pleasure to meet you.",
+      "created_at": "2025-10-21T09:35:36.491Z"
+    },
+    {
+      "id": "msg_3e36c4921f",
+      "conversation_id": "conv_92e70be3a6",
+      "role": "user",
+      "content": "Will you be opening tomorrow ?",
+      "created_at": "2025-10-21T09:36:06.255Z"
+    },
+    {
+      "id": "msg_3fc657a865",
+      "conversation_id": "conv_92e70be3a6",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-21T09:36:06.260Z",
+      "help_request_id": "hr_edd5370080"
+    },
+    {
+      "id": "msg_b49fe9560f",
+      "conversation_id": "conv_92e70be3a6",
+      "role": "supervisor",
+      "content": "Yes we will be opening",
+      "created_at": "2025-10-21T09:36:56.588Z",
+      "help_request_id": "hr_edd5370080"
+    },
+    {
+      "id": "msg_450f7417ec",
+      "conversation_id": "conv_92e70be3a6",
+      "role": "assistant",
+      "content": "I don't know",
+      "created_at": "2025-10-21T09:36:58.976Z",
+      "help_request_id": "hr_edd5370080"
+    },
+    {
+      "id": "msg_490794e31e",
+      "conversation_id": "conv_e932360f90",
+      "role": "user",
+      "content": "Hi, I'm Utkarsh Singh",
+      "created_at": "2025-10-22T14:35:04.800Z"
+    },
+    {
+      "id": "msg_322a781cc5",
+      "conversation_id": "conv_e932360f90",
+      "role": "assistant",
+      "content": "Hello Utkarsh! Welcome. How can I assist you today?",
+      "created_at": "2025-10-22T14:35:08.531Z"
+    },
+    {
+      "id": "msg_61c3087e5f",
+      "conversation_id": "conv_e932360f90",
+      "role": "user",
+      "content": "Can you please help me tell me about your timings on weekdays?",
+      "created_at": "2025-10-22T14:35:52.515Z"
+    },
+    {
+      "id": "msg_63bb72016c",
+      "conversation_id": "conv_e932360f90",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-22T14:35:52.520Z",
+      "help_request_id": "hr_219bd1a69e"
+    },
+    {
+      "id": "msg_77d3fb5c74",
+      "conversation_id": "conv_e932360f90",
+      "role": "supervisor",
+      "content": "Our timings for weekdays are from 11AM to 8PM.",
+      "created_at": "2025-10-22T14:36:54.508Z",
+      "help_request_id": "hr_219bd1a69e"
+    },
+    {
+      "id": "msg_0249f35572",
+      "conversation_id": "conv_e932360f90",
+      "role": "assistant",
+      "content": "Our timings for weekdays are from 11AM to 8PM.",
+      "created_at": "2025-10-22T14:36:55.829Z",
+      "help_request_id": "hr_219bd1a69e"
+    },
+    {
+      "id": "msg_6a638cffd8",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "role": "user",
+      "content": "Hi I'm Utkarsh Singh",
+      "created_at": "2025-10-22T14:53:09.227Z"
+    },
+    {
+      "id": "msg_7ba3634c24",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "role": "assistant",
+      "content": "Hello Utkarsh, it's a pleasure to meet you! Welcome. How can I help you today?",
+      "created_at": "2025-10-22T14:53:11.657Z"
+    },
+    {
+      "id": "msg_be39030a09",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "role": "user",
+      "content": "I wanted to check the timings for weekdays",
+      "created_at": "2025-10-22T14:53:35.740Z"
+    },
+    {
+      "id": "msg_3c069bc897",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-22T14:53:35.745Z",
+      "help_request_id": "hr_5dec9a4e5f"
+    },
+    {
+      "id": "msg_a0afdb5f80",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "role": "supervisor",
+      "content": "On weekdays we are open from 8AM - 8PM.",
+      "created_at": "2025-10-22T14:54:14.752Z",
+      "help_request_id": "hr_5dec9a4e5f"
+    },
+    {
+      "id": "msg_c16cd574cc",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "role": "assistant",
+      "content": "On weekdays we are open from 8AM - 8PM.",
+      "created_at": "2025-10-22T14:54:16.421Z",
+      "help_request_id": "hr_5dec9a4e5f"
+    },
+    {
+      "id": "msg_3d5e67dcbe",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "role": "user",
+      "content": "Hi, This is Vaibhav",
+      "created_at": "2025-10-22T14:57:03.359Z"
+    },
+    {
+      "id": "msg_612c81e1eb",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "role": "assistant",
+      "content": "Hi! How can I help you today?",
+      "created_at": "2025-10-22T14:57:05.704Z"
+    },
+    {
+      "id": "msg_7fa315ba24",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "role": "user",
+      "content": "Hi, This is Vaibhav",
+      "created_at": "2025-10-22T14:57:23.539Z"
+    },
+    {
+      "id": "msg_f378791291",
+      "conversation_id": "conv_f8fc1a1dcb",
+      "role": "assistant",
+      "content": "Hello Vaibhav! Assistant Adam here. Welcome! How may I assist you today?",
+      "created_at": "2025-10-22T14:57:30.539Z"
+    },
+    {
+      "id": "msg_b7396c7d14",
+      "conversation_id": "conv_44aa2fbbb1",
+      "role": "user",
+      "content": "hi this is Utkarsh",
+      "created_at": "2025-10-22T15:01:43.632Z"
+    },
+    {
+      "id": "msg_673e1e1fab",
+      "conversation_id": "conv_44aa2fbbb1",
+      "role": "assistant",
+      "content": "Hello Utkarsh, welcome! How may I help you today?",
+      "created_at": "2025-10-22T15:01:46.515Z"
+    },
+    {
+      "id": "msg_60680d60b6",
+      "conversation_id": "conv_44aa2fbbb1",
+      "role": "user",
+      "content": "I wanted to check it on timings",
+      "created_at": "2025-10-22T15:01:53.679Z"
+    },
+    {
+      "id": "msg_cf2d5bdf77",
+      "conversation_id": "conv_44aa2fbbb1",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-22T15:01:53.687Z",
+      "help_request_id": "hr_325643baeb"
+    },
+    {
+      "id": "msg_9b8703d41f",
+      "conversation_id": "conv_44aa2fbbb1",
+      "role": "supervisor",
+      "content": "We are open from 8AM-8PM on weekdays.",
+      "created_at": "2025-10-22T15:02:26.294Z",
+      "help_request_id": "hr_325643baeb"
+    },
+    {
+      "id": "msg_5ab7e0f382",
+      "conversation_id": "conv_44aa2fbbb1",
+      "role": "assistant",
+      "content": "We are open from 8AM-8PM on weekdays.",
+      "created_at": "2025-10-22T15:02:28.171Z",
+      "help_request_id": "hr_325643baeb"
+    },
+    {
+      "id": "msg_c47e5bf112",
+      "conversation_id": "conv_4e7fd732dd",
+      "role": "user",
+      "content": "hi this is Utkarsh",
+      "created_at": "2025-10-22T15:04:18.606Z"
+    },
+    {
+      "id": "msg_d4d8f3779f",
+      "conversation_id": "conv_4e7fd732dd",
+      "role": "assistant",
+      "content": "Hello Utkarsh, welcome! How can I help you today?",
+      "created_at": "2025-10-22T15:04:20.718Z"
+    },
+    {
+      "id": "msg_5edfbb4283",
+      "conversation_id": "conv_4e7fd732dd",
+      "role": "user",
+      "content": "I wanted to check it on timings",
+      "created_at": "2025-10-22T15:04:24.173Z"
+    },
+    {
+      "id": "msg_fba8e2dd35",
+      "conversation_id": "conv_4e7fd732dd",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-22T15:04:24.533Z",
+      "help_request_id": "hr_540fefb947"
+    },
+    {
+      "id": "msg_15bf49ea20",
+      "conversation_id": "conv_4e7fd732dd",
+      "role": "supervisor",
+      "content": "8AM-8PM on weekdays",
+      "created_at": "2025-10-22T15:04:44.800Z",
+      "help_request_id": "hr_540fefb947"
+    },
+    {
+      "id": "msg_39a99e032a",
+      "conversation_id": "conv_4e7fd732dd",
+      "role": "assistant",
+      "content": "8AM-8PM on weekdays",
+      "created_at": "2025-10-22T15:04:48.816Z",
+      "help_request_id": "hr_540fefb947"
+    },
+    {
+      "id": "msg_8b9bfc196d",
+      "conversation_id": "conv_9f2ba334a0",
+      "role": "user",
+      "content": "Hi, I'm Utkarsh",
+      "created_at": "2025-10-22T15:17:13.430Z"
+    },
+    {
+      "id": "msg_d38e4b9dd7",
+      "conversation_id": "conv_9f2ba334a0",
+      "role": "assistant",
+      "content": "Hello Utkarsh, it's nice to meet you! Welcome. How can I assist you today?",
+      "created_at": "2025-10-22T15:17:15.961Z"
+    },
+    {
+      "id": "msg_f6daab9c0d",
+      "conversation_id": "conv_9f2ba334a0",
+      "role": "user",
+      "content": "I wanted to check on timings",
+      "created_at": "2025-10-22T15:17:46.069Z"
+    },
+    {
+      "id": "msg_9dadf7061f",
+      "conversation_id": "conv_9f2ba334a0",
+      "role": "assistant",
+      "content": "Thanks for your question—please hold for a moment while I check with a specialist. I’ll be right back.",
+      "created_at": "2025-10-22T15:17:46.073Z",
+      "help_request_id": "hr_edcdf348dd"
+    },
+    {
+      "id": "msg_d3e8ac3cc6",
+      "conversation_id": "conv_9f2ba334a0",
+      "role": "supervisor",
+      "content": "8AM-8PM on weekdays.",
+      "created_at": "2025-10-22T15:18:10.061Z",
+      "help_request_id": "hr_edcdf348dd"
+    },
+    {
+      "id": "msg_5e81a2fed4",
+      "conversation_id": "conv_9f2ba334a0",
+      "role": "assistant",
+      "content": "We're open from 8 AM to 8 PM on weekdays.",
+      "created_at": "2025-10-22T15:18:12.092Z",
+      "help_request_id": "hr_edcdf348dd"
+    }
+  ],
+  "supervisor_answers": [
+    {
+      "id": "ans_922e78d0d7",
+      "help_request_id": "hr_09665ef5c0",
+      "answer_text": "yes",
+      "answered_by": "supervisor@local",
+      "answered_at": "2025-10-17T12:37:10.341Z"
+    },
+    {
+      "id": "ans_6488365216",
+      "help_request_id": "hr_55ae801fbc",
+      "answer_text": "Yes",
+      "answered_by": "supervisor@local",
+      "answered_at": "2025-10-17T12:38:41.473Z"
+    },
+    {
+      "id": "ans_93c5fb901f",
+      "help_request_id": "hr_0a5571d52b",
+      "answer_text": "Yes It will be open",
+      "answered_by": "supervisor@local",
+      "answered_at": "2025-10-17T13:24:36.437Z"
+    },
+    {
+      "id": "ans_5fbf157429",
+      "help_request_id": "hr_921a894000",
+      "answer_text": "Yes",
+      "answered_by": "supervisor@local",
+      "answered_at": "2025-10-17T13:34:02.423Z"
+    },
+    {
+      "id": "ans_9ea8bc7d53",
+      "help_request_id": "hr_7a686c04f4",
+      "answer_text": "John and Habib himself would style your hair.",
+      "answered_by": "supervisor@local",
+      "answered_at": "2025-10-17T15:24:26.144Z"
+    },
+    {
+      "id": "ans_1800ae0bf3",
+      "help_request_id": "hr_9536b3a57c",
+      "answer_text": "Heyy, I'm Adam!",
+      "answered_by": "supervisor@local",
+      "answered_at": "2025-10-17T15:34:52.780Z"
+    },
+    {
+      "id": "ans_e9859f4a7c",
+      "help_request_id": "hr_f51f9897b9",
+      "answer_text": "Kylie is our top notch female hair stylist, and she'll assist you.",
+      "answered_by": "supervisor@local",
+      "answered_at": "2025-10-17T16:14:57.904Z"
+    }
+  ],
+  "kb_entries": [
+    {
+      "id": "kb_hours",
+      "question": "What are your hours?",
+      "answer": "We are open Mon–Sat, 10am–7pm, and Sunday 11am–5pm.",
+      "created_from_help_request_id": null,
+      "confidence": 0.95,
+      "tags": [
+        "salon",
+        "hours"
+      ],
+      "created_at": "2025-01-01T00:00:00.000Z",
+      "updated_at": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "kb_address",
+      "question": "What is your address?",
+      "answer": "We are at 123 Main Street, Midtown.",
+      "created_from_help_request_id": null,
+      "confidence": 0.95,
+      "tags": [
+        "salon",
+        "address"
+      ],
+      "created_at": "2025-01-01T00:00:00.000Z",
+      "updated_at": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "kb_x77bdvdx",
+      "question": "Tomorrow Salon will be opening ?",
+      "answer": "yes",
+      "created_from_help_request_id": "hr_09665ef5c0",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-17T12:37:10.343Z",
+      "updated_at": "2025-10-17T12:37:10.343Z"
+    },
+    {
+      "id": "kb_01b7ks4m",
+      "question": "Tomorrow  Salon is closed",
+      "answer": "Yes",
+      "created_from_help_request_id": "hr_55ae801fbc",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-17T12:38:41.474Z",
+      "updated_at": "2025-10-17T12:38:41.474Z"
+    },
+    {
+      "id": "kb_a8kwqs42",
+      "question": "and what about day after tomorrow",
+      "answer": "Yes It will be open",
+      "created_from_help_request_id": "hr_0a5571d52b",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-17T13:24:36.439Z",
+      "updated_at": "2025-10-17T13:24:36.439Z"
+    },
+    {
+      "id": "kb_ipta9kia",
+      "question": "Yesterday salon was opened ?",
+      "answer": "Yes",
+      "created_from_help_request_id": "hr_921a894000",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-17T13:34:02.425Z",
+      "updated_at": "2025-10-17T13:34:02.425Z"
+    },
+    {
+      "id": "kb_ej8ddv9i",
+      "question": "who is the specialist who will be styling my haircut",
+      "answer": "John and Habib himself would style your hair.",
+      "created_from_help_request_id": "hr_7a686c04f4",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-17T15:24:26.147Z",
+      "updated_at": "2025-10-17T15:24:26.147Z"
+    },
+    {
+      "id": "kb_69k6y8ms",
+      "question": "hey there hello",
+      "answer": "Heyy, I'm Adam!",
+      "created_from_help_request_id": "hr_9536b3a57c",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-17T15:34:52.783Z",
+      "updated_at": "2025-10-17T15:34:52.783Z"
+    },
+    {
+      "id": "kb_kt2dq9bk",
+      "question": "I need a female hair stylist",
+      "answer": "Kylie is our top notch female hair stylist, and she'll assist you.",
+      "created_from_help_request_id": "hr_f51f9897b9",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-17T16:14:57.906Z",
+      "updated_at": "2025-10-17T16:14:57.906Z"
+    },
+    {
+      "id": "kb_mcuu3lny",
+      "question": "I wanted to check on your timings",
+      "answer": "We are open on weekdays, from 11AM - 8PM.",
+      "created_from_help_request_id": "hr_02beb7847d",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-20T20:13:22.489Z",
+      "updated_at": "2025-10-20T20:13:22.489Z"
+    },
+    {
+      "id": "kb_s5rpg7v0",
+      "question": "I I just I just wanted I  just wanted to I just  wanted to I just  wanted to confirm I just wanted  to confirm I just wanted  to confirm your I just wanted to  confirm your I just wanted to confirm  your timing I just wanted to confirm  your timings I just wanted to confirm your  timings I just wanted to confirm your timings",
+      "answer": "We are open from 11Am-8PM on weekdays.",
+      "created_from_help_request_id": "hr_1b62061b22",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-20T20:21:03.940Z",
+      "updated_at": "2025-10-20T20:21:03.940Z"
+    },
+    {
+      "id": "kb_1h2el34e",
+      "question": "I wanted to check in on your timings",
+      "answer": "We are open from 11AM-8PM on weekdays.",
+      "created_from_help_request_id": "hr_a57c283a8d",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-20T20:32:01.233Z",
+      "updated_at": "2025-10-20T20:32:01.233Z"
+    },
+    {
+      "id": "kb_s9bswqj7",
+      "question": "also where are you stated at",
+      "answer": "123, 5th Avenue, Birmingham, Bihar",
+      "created_from_help_request_id": "hr_8675bc00ae",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-20T20:32:59.182Z",
+      "updated_at": "2025-10-20T20:32:59.182Z"
+    },
+    {
+      "id": "kb_2gjiz721",
+      "question": "I want to know timings when you'll be open",
+      "answer": "11AM-*PM on weekdays.",
+      "created_from_help_request_id": "hr_d81bb99e16",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-21T05:34:20.656Z",
+      "updated_at": "2025-10-21T05:34:20.656Z"
+    },
+    {
+      "id": "kb_72w7w474",
+      "question": "Will you be opening tomorrow ?",
+      "answer": "Yes we will be opening",
+      "created_from_help_request_id": "hr_edd5370080",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-21T09:36:56.590Z",
+      "updated_at": "2025-10-21T09:36:56.590Z"
+    },
+    {
+      "id": "kb_nn3730y9",
+      "question": "Can you please help me tell me about your timings on weekdays?",
+      "answer": "Our timings for weekdays are from 11AM to 8PM.",
+      "created_from_help_request_id": "hr_219bd1a69e",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-22T14:36:54.509Z",
+      "updated_at": "2025-10-22T14:36:54.509Z"
+    },
+    {
+      "id": "kb_tyojpzg2",
+      "question": "I wanted to check the timings for weekdays",
+      "answer": "On weekdays we are open from 8AM - 8PM.",
+      "created_from_help_request_id": "hr_5dec9a4e5f",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-22T14:54:14.754Z",
+      "updated_at": "2025-10-22T14:54:14.754Z"
+    },
+    {
+      "id": "kb_hy0c3bhh",
+      "question": "I wanted to check it on timings",
+      "answer": "We are open from 8AM-8PM on weekdays.",
+      "created_from_help_request_id": "hr_325643baeb",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-22T15:02:26.296Z",
+      "updated_at": "2025-10-22T15:02:26.296Z"
+    },
+    {
+      "id": "kb_ymf1ql6f",
+      "question": "I wanted to check it on timings",
+      "answer": "8AM-8PM on weekdays",
+      "created_from_help_request_id": "hr_540fefb947",
+      "confidence": 0.9,
+      "tags": [],
+      "created_at": "2025-10-22T15:04:44.802Z",
+      "updated_at": "2025-10-22T15:04:44.802Z"
+    }
+  ],
+  "audit_logs": [],
+  "conversations": [
+    {
+      "id": "conv_0de7c39a13",
+      "started_at": "2025-10-20T18:24:43.951Z",
+      "ended_at": null,
+      "title": "hello this is Utkarsh"
+    },
+    {
+      "id": "conv_65086a08f0",
+      "started_at": "2025-10-20T18:29:15.730Z",
+      "ended_at": null,
+      "title": "hi I just want to know when are you open"
+    },
+    {
+      "id": "conv_1f87c92f02",
+      "started_at": "2025-10-20T18:54:14.167Z",
+      "ended_at": "2025-10-20T18:56:46.746Z",
+      "title": "hi I just wanted to know if you are open now"
+    },
+    {
+      "id": "conv_cff50c7793",
+      "started_at": "2025-10-20T18:56:50.513Z",
+      "ended_at": null,
+      "title": "hi hi how are you doing"
+    },
+    {
+      "id": "conv_b11164e90a",
+      "started_at": "2025-10-20T18:57:14.319Z",
+      "ended_at": null,
+      "title": "hey there I am Utkarsh"
+    },
+    {
+      "id": "conv_ae9bf1847f",
+      "started_at": "2025-10-20T19:01:32.656Z",
+      "ended_at": null,
+      "title": "here"
+    },
+    {
+      "id": "conv_d31f5346db",
+      "started_at": "2025-10-20T19:02:19.695Z",
+      "ended_at": null,
+      "title": "hello there this is Utkarsh Singh"
+    },
+    {
+      "id": "conv_a42a9f4639",
+      "started_at": "2025-10-20T19:04:01.669Z",
+      "ended_at": null,
+      "title": "hi I just wanted to check"
+    },
+    {
+      "id": "conv_b52af013d7",
+      "started_at": "2025-10-20T19:04:22.559Z",
+      "ended_at": null,
+      "title": "hi I just wanted to check"
+    },
+    {
+      "id": "conv_acb1724259",
+      "started_at": "2025-10-20T19:06:26.695Z",
+      "ended_at": "2025-10-20T19:10:22.028Z",
+      "title": "hey this is utkar"
+    },
+    {
+      "id": "conv_8a380a036a",
+      "started_at": "2025-10-20T19:10:22.425Z",
+      "ended_at": null,
+      "title": null
+    },
+    {
+      "id": "conv_f6f3eff7c5",
+      "started_at": "2025-10-20T19:10:25.268Z",
+      "ended_at": null,
+      "title": "hello hi"
+    },
+    {
+      "id": "conv_877062c4e4",
+      "started_at": "2025-10-20T19:11:51.397Z",
+      "ended_at": null,
+      "title": "hi this is Utkarsh"
+    },
+    {
+      "id": "conv_df4850d986",
+      "started_at": "2025-10-20T19:16:02.935Z",
+      "ended_at": null,
+      "title": "hay"
+    },
+    {
+      "id": "conv_9cb13360cb",
+      "started_at": "2025-10-20T19:19:17.364Z",
+      "ended_at": null,
+      "title": "hay hello"
+    },
+    {
+      "id": "conv_1abf346c60",
+      "started_at": "2025-10-20T19:24:56.987Z",
+      "ended_at": null,
+      "title": "hello there hi"
+    },
+    {
+      "id": "conv_235eb7ba79",
+      "started_at": "2025-10-20T19:32:38.256Z",
+      "ended_at": null,
+      "title": "hi there"
+    },
+    {
+      "id": "conv_7be135ef7f",
+      "started_at": "2025-10-20T19:36:41.149Z",
+      "ended_at": null,
+      "title": "how are you"
+    },
+    {
+      "id": "conv_08f3c9513b",
+      "started_at": "2025-10-20T19:37:48.631Z",
+      "ended_at": null,
+      "title": "hi there"
+    },
+    {
+      "id": "conv_74f29c18f8",
+      "started_at": "2025-10-20T19:42:04.084Z",
+      "ended_at": null,
+      "title": "hello hi"
+    },
+    {
+      "id": "conv_77b9ad848c",
+      "started_at": "2025-10-20T20:01:16.687Z",
+      "ended_at": "2025-10-20T20:01:41.899Z",
+      "title": "hi"
+    },
+    {
+      "id": "conv_2744e05116",
+      "started_at": "2025-10-20T20:01:49.817Z",
+      "ended_at": null,
+      "title": "hi I am Utkarsh who are you"
+    },
+    {
+      "id": "conv_a40919e2d5",
+      "started_at": "2025-10-20T20:12:17.711Z",
+      "ended_at": "2025-10-20T20:14:27.957Z",
+      "title": "hello there"
+    },
+    {
+      "id": "conv_7c9044da1c",
+      "started_at": "2025-10-20T20:19:49.459Z",
+      "ended_at": "2025-10-20T20:20:05.463Z",
+      "title": null
+    },
+    {
+      "id": "conv_ddb6186094",
+      "started_at": "2025-10-20T20:20:12.812Z",
+      "ended_at": "2025-10-20T20:21:30.447Z",
+      "title": "hi hi  how hi  how are you hi how  are you hi how are you hi"
+    },
+    {
+      "id": "conv_4e93f0ef0e",
+      "started_at": "2025-10-20T20:24:09.979Z",
+      "ended_at": "2025-10-20T20:24:32.897Z",
+      "title": "how how are you how are you how are you how are you"
+    },
+    {
+      "id": "conv_b7a74d5de8",
+      "started_at": "2025-10-20T20:30:58.670Z",
+      "ended_at": null,
+      "title": null
+    },
+    {
+      "id": "conv_49a1dacacd",
+      "started_at": "2025-10-20T20:31:02.657Z",
+      "ended_at": "2025-10-20T20:34:13.748Z",
+      "title": "hi hello"
+    },
+    {
+      "id": "conv_3b0523c374",
+      "started_at": "2025-10-20T20:35:05.570Z",
+      "ended_at": null,
+      "title": "Heyy there!"
+    },
+    {
+      "id": "conv_b95bcbefd4",
+      "started_at": "2025-10-21T05:33:17.057Z",
+      "ended_at": null,
+      "title": "Hi, I'm Utkarsh Singh!"
+    },
+    {
+      "id": "conv_92e70be3a6",
+      "started_at": "2025-10-21T09:35:09.977Z",
+      "ended_at": null,
+      "title": "Hi"
+    },
+    {
+      "id": "conv_e932360f90",
+      "started_at": "2025-10-22T14:35:04.503Z",
+      "ended_at": null,
+      "title": "Hi, I'm Utkarsh Singh"
+    },
+    {
+      "id": "conv_d633103d05",
+      "started_at": "2025-10-22T14:52:37.984Z",
+      "ended_at": "2025-10-22T14:52:52.950Z",
+      "title": null
+    },
+    {
+      "id": "conv_f8fc1a1dcb",
+      "started_at": "2025-10-22T14:52:54.572Z",
+      "ended_at": null,
+      "title": "Hi I'm Utkarsh Singh"
+    },
+    {
+      "id": "conv_44aa2fbbb1",
+      "started_at": "2025-10-22T15:01:27.011Z",
+      "ended_at": null,
+      "title": "hi this is Utkarsh"
+    },
+    {
+      "id": "conv_4e7fd732dd",
+      "started_at": "2025-10-22T15:04:14.510Z",
+      "ended_at": "2025-10-22T15:17:00.415Z",
+      "title": "hi this is Utkarsh"
+    },
+    {
+      "id": "conv_9f2ba334a0",
+      "started_at": "2025-10-22T15:17:13.371Z",
+      "ended_at": null,
+      "title": "Hi, I'm Utkarsh"
+    }
+  ],
+  "kb": [
+    {
+      "id": "kb_a24475415c",
+      "question": "I wanted to check on timings",
+      "answer": "8AM-8PM on weekdays.",
+      "created_at": "2025-10-22T15:18:10.064Z",
+      "updated_at": "2025-10-22T15:18:10.064Z",
+      "last_help_request_id": "hr_edcdf348dd"
+    }
+  ]
+}
